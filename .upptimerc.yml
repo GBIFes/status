@@ -70,7 +70,8 @@ status-website:
   introMessage: Live status page of GBIF Spain services
   navbar:
     - title: Status
-      href: /    icon: https://www.gbif.es/wp-content/uploads/2017/05/gbif-logo.svg
+      href: /
+      icon: https://www.gbif.es/wp-content/uploads/2017/05/gbif-logo.svg
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
