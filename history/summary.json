@@ -184,19 +184,19 @@
     "url": "https://imagenes.gbif.es",
     "icon": "https://favicons.githubusercontent.com/imagenes.gbif.es",
     "slug": "servicio-de-imagenes",
-    "status": "down",
-    "uptime": "37.72%",
-    "uptimeDay": "37.72%",
-    "uptimeWeek": "37.72%",
-    "uptimeMonth": "37.72%",
-    "uptimeYear": "37.72%",
-    "time": 5774,
-    "timeDay": 5774,
-    "timeWeek": 5774,
-    "timeMonth": 5774,
-    "timeYear": 5774,
+    "status": "up",
+    "uptime": "5.49%",
+    "uptimeDay": "5.49%",
+    "uptimeWeek": "5.49%",
+    "uptimeMonth": "5.49%",
+    "uptimeYear": "5.49%",
+    "time": 3462,
+    "timeDay": 3462,
+    "timeWeek": 3462,
+    "timeMonth": 3462,
+    "timeYear": 3462,
     "dailyMinutesDown": {
-      "2021-11-29": 1
+      "2021-11-29": 10
     }
   },
   {
@@ -205,18 +205,18 @@
     "icon": "https://favicons.githubusercontent.com/auth.gbif.es",
     "slug": "cas",
     "status": "down",
-    "uptime": "8.80%",
-    "uptimeDay": "8.80%",
-    "uptimeWeek": "8.80%",
-    "uptimeMonth": "8.80%",
-    "uptimeYear": "8.80%",
+    "uptime": "0.49%",
+    "uptimeDay": "0.49%",
+    "uptimeWeek": "0.49%",
+    "uptimeMonth": "0.49%",
+    "uptimeYear": "0.49%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-29": 0
+      "2021-11-29": 10
     }
   },
   {
@@ -261,18 +261,18 @@
     "icon": "https://favicons.githubusercontent.com/auth.gbif.es",
     "slug": "cas-management",
     "status": "down",
-    "uptime": "7.11%",
-    "uptimeDay": "7.11%",
-    "uptimeWeek": "7.11%",
-    "uptimeMonth": "7.11%",
-    "uptimeYear": "7.11%",
+    "uptime": "0.36%",
+    "uptimeDay": "0.36%",
+    "uptimeWeek": "0.36%",
+    "uptimeMonth": "0.36%",
+    "uptimeYear": "0.36%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-29": 0
+      "2021-11-29": 10
     }
   },
   {
@@ -317,18 +317,18 @@
     "icon": "https://favicons.githubusercontent.com/alertas.gbif.e",
     "slug": "alertas-de-gbif-es",
     "status": "down",
-    "uptime": "4.25%",
-    "uptimeDay": "4.25%",
-    "uptimeWeek": "4.25%",
-    "uptimeMonth": "4.25%",
-    "uptimeYear": "4.25%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-29": 0
+      "2021-11-29": 10
     }
   },
   {
