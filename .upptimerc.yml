@@ -27,11 +27,11 @@ sites:
   - name: Servicio de Imágenes
     url: https://imagenes.gbif.es
   - name: CAS
-    url: https://auth.gbif.es/cas
+    url: https://auth.gbif.es/cas/
   - name: Userdetails
-    url: https://auth.gbif.es/userdetails
+    url: https://auth.gbif.es/userdetails/
   - name: Apikey
-    url: https://auth.gbif.es/apikey
+    url: https://auth.gbif.es/apikey/
   - name: CAS Management
     url: https://auth.gbif.es/cas-management
   - name: Servicio de DOI
@@ -52,6 +52,8 @@ sites:
     url: https://elearning.gbif.es
   - name: Repositorio APT
     url: apt.gbif.es
+  - name: Infraestructura Iberoamericana de Información sobre Biodiversidad
+    url: https://recibio.net
 
 status-website:
   #cname: demo.upptime.js.org
@@ -62,7 +64,7 @@ status-website:
   introMessage: Live status page of GBIF Spain services
   navbar:
     - title: Status
-      href: /
+      href: /    icon: https://www.gbif.es/wp-content/uploads/2017/05/gbif-logo.svg
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
