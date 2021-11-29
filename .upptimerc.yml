@@ -1,26 +1,65 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: GBIFes # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+
+  - name: GBIF Spain
+    url: https://gbif.es
+  - name: Portal de Datos de GBIF.es
+    url: https://datos.gbif.es
+  - name: Colecciones de historia natural de España
+    url: https://colecciones.gbif.es
+  - name: Búsqueda de registros Portal de Datos de GBIF.ES
+    url: https://registros.gbif.es
+  - name: Registros Webservices
+    url: https://registros-ws.gbif.es
+  - name: Especies
+    url: https://especies.gbif.es
+  - name: Especies Webservices
+    url: https://especies-ws.gbif.es
+  - name: Regiones
+    url: https://regiones.gbif.es
+  - name: Listas de Especies
+    url: https://listas.gbif.es
+  - name: Portal Espacial
+    url: https://espacial.gbif.es
+  - name: Servicio de Imágenes
+    url: https://imagenes.gbif.es
+  - name: CAS
+    url: https://auth.gbif.es/cas
+  - name: Userdetails
+    url: https://auth.gbif.es/userdetails
+  - name: Apikey
+    url: https://auth.gbif.es/apikey
+  - name: CAS Management
+    url: https://auth.gbif.es/cas-management
+  - name: Servicio de DOI
+    url: https://doi.gbif.es
+  - name: Dashboard de GBIF.es
+    url: https://dashboard.gbif.es
+  - name: Alertas de GBIF.es
+    url: https://alertas.gbif.e
+  - name: Logger
+    url: https://logger.gbif.es
+  - name: IPT
+    url: https://ipt.gbif.es
+  - name: IPT demo
+    url: https://ipt.gbif.es
+  - name: LA demo
+    url: https://demo.gbif.es
+  - name: eLearning GBIF.es
+    url: https://elearning.gbif.es
+  - name: Repositorio APT
+    url: apt.gbif.es
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #cname: demo.upptime.js.org
+  baseUrl: /status
+  logoUrl: https://www.gbif.es/wp-content/uploads/2017/05/gbif-logo.svg
+  name: GBIF Spain service status
+  introTitle: "Global Biodiversity Information Facility - Spain"
+  introMessage: Live status page of GBIF Spain services
   navbar:
     - title: Status
       href: /
