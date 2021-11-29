@@ -27,7 +27,7 @@ sites:
   - name: Servicio de Imágenes
     url: https://imagenes.gbif.es
   - name: CAS
-    url: https://auth.gbif.es/cas/
+    url: https://auth.gbif.es/cas/login
   - name: Userdetails
     url: https://auth.gbif.es/userdetails/
   - name: Apikey
