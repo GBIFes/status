@@ -27,19 +27,25 @@ sites:
   - name: Servicio de Imágenes
     url: https://imagenes.gbif.es
   - name: CAS
-    url: https://auth.gbif.es/cas/login
+    url: https://auth.gbif.es/cas/
+    expectedStatusCodes:
+      - 302
   - name: Userdetails
     url: https://auth.gbif.es/userdetails/
   - name: Apikey
     url: https://auth.gbif.es/apikey/
   - name: CAS Management
-    url: https://auth.gbif.es/cas-management
+    url: https://auth.gbif.es/cas-management/
+    expectedStatusCodes:
+      - 302
   - name: Servicio de DOI
     url: https://doi.gbif.es
   - name: Dashboard de GBIF.es
     url: https://dashboard.gbif.es
   - name: Alertas de GBIF.es
-    url: https://alertas.gbif.e
+    url: https://alertas.gbif.es
+    expectedStatusCodes:
+      - 302
   - name: Logger
     url: https://logger.gbif.es
   - name: IPT
