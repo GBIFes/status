@@ -28,30 +28,21 @@ sites:
     url: https://imagenes.gbif.es
   - name: CAS
     url: https://auth.gbif.es/cas/
-    maxRedirects: 0
-    expectedStatusCodes:
-      - 200
-      - 302
+    maxRedirects: 10
   - name: Userdetails
     url: https://auth.gbif.es/userdetails/
   - name: Apikey
     url: https://auth.gbif.es/apikey/
   - name: CAS Management
     url: https://auth.gbif.es/cas-management/
-    maxRedirects: 0
-    expectedStatusCodes:
-      - 200
-      - 302
+    maxRedirects: 10
   - name: Servicio de DOI
     url: https://doi.gbif.es
   - name: Dashboard de GBIF.es
     url: https://dashboard.gbif.es
   - name: Alertas de GBIF.es
     url: https://alertas.gbif.es
-    maxRedirects: 0
-    expectedStatusCodes:
-      - 200
-      - 302
+    maxRedirects: 10
   - name: Logger
     url: https://logger.gbif.es
   - name: IPT
