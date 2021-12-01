@@ -48,7 +48,7 @@ sites:
   - name: IPT
     url: https://ipt.gbif.es
   - name: IPT demo
-    url: https://ipt.gbif.es
+    url: https://ipt-demo.gbif.es
   - name: LA demo
     url: https://demo.gbif.es
   - name: eLearning GBIF.es
