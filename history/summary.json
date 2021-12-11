@@ -80,18 +80,20 @@
     "url": "https://registros-ws.gbif.es",
     "icon": "https://favicons.githubusercontent.com/registros-ws.gbif.es",
     "slug": "registros-webservices",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 643,
     "timeDay": 591,
     "timeWeek": 632,
     "timeMonth": 643,
     "timeYear": 643,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-11": 2
+    }
   },
   {
     "name": "Especies",
@@ -135,19 +137,17 @@
     "icon": "https://favicons.githubusercontent.com/regiones.gbif.es",
     "slug": "regiones",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 716,
     "timeDay": 769,
     "timeWeek": 730,
     "timeMonth": 716,
     "timeYear": 716,
-    "dailyMinutesDown": {
-      "2021-12-11": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Listas de Especies",
@@ -173,18 +173,18 @@
     "icon": "https://favicons.githubusercontent.com/espacial.gbif.es",
     "slug": "portal-espacial",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.79%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 1332,
     "timeDay": 2117,
     "timeWeek": 1421,
     "timeMonth": 1332,
     "timeYear": 1332,
     "dailyMinutesDown": {
-      "2021-12-11": 25
+      "2021-12-11": 36
     }
   },
   {
