@@ -170,19 +170,19 @@
     "url": "https://espacial.gbif.es",
     "icon": "https://favicons.githubusercontent.com/espacial.gbif.es",
     "slug": "portal-espacial",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "93.28%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 2432,
-    "timeDay": 12172,
-    "timeWeek": 4022,
-    "timeMonth": 2432,
-    "timeYear": 2432,
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "91.44%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
+    "time": 2376,
+    "timeDay": 8554,
+    "timeWeek": 3722,
+    "timeMonth": 2376,
+    "timeYear": 2376,
     "dailyMinutesDown": {
-      "2021-12-11": 96
+      "2021-12-11": 123
     }
   },
   {
