@@ -134,18 +134,20 @@
     "url": "https://regiones.gbif.es",
     "icon": "https://favicons.githubusercontent.com/regiones.gbif.es",
     "slug": "regiones",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 709,
     "timeDay": 694,
     "timeWeek": 714,
     "timeMonth": 709,
     "timeYear": 709,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-11": 2
+    }
   },
   {
     "name": "Listas de Especies",
@@ -171,18 +173,18 @@
     "icon": "https://favicons.githubusercontent.com/espacial.gbif.es",
     "slug": "portal-espacial",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1332,
     "timeDay": 2117,
     "timeWeek": 1421,
     "timeMonth": 1332,
     "timeYear": 1332,
     "dailyMinutesDown": {
-      "2021-12-11": 0
+      "2021-12-11": 16
     }
   },
   {
