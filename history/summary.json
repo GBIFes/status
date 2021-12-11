@@ -80,19 +80,19 @@
     "url": "https://registros-ws.gbif.es",
     "icon": "https://favicons.githubusercontent.com/registros-ws.gbif.es",
     "slug": "registros-webservices",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 643,
-    "timeDay": 591,
-    "timeWeek": 632,
-    "timeMonth": 643,
-    "timeYear": 643,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 641,
+    "timeDay": 597,
+    "timeWeek": 628,
+    "timeMonth": 641,
+    "timeYear": 641,
     "dailyMinutesDown": {
-      "2021-12-11": 2
+      "2021-12-11": 13
     }
   },
   {
@@ -173,18 +173,18 @@
     "icon": "https://favicons.githubusercontent.com/espacial.gbif.es",
     "slug": "portal-espacial",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "97.50%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptime": "99.72%",
+    "uptimeDay": "96.60%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 1332,
     "timeDay": 2117,
     "timeWeek": 1421,
     "timeMonth": 1332,
     "timeYear": 1332,
     "dailyMinutesDown": {
-      "2021-12-11": 36
+      "2021-12-11": 49
     }
   },
   {
