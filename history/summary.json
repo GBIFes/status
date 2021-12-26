@@ -349,19 +349,19 @@
     "url": "https://logger.gbif.es",
     "icon": "https://favicons.githubusercontent.com/logger.gbif.es",
     "slug": "logger",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 662,
-    "timeWeek": 648,
-    "timeMonth": 607,
-    "timeYear": 607,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 611,
+    "timeDay": 688,
+    "timeWeek": 658,
+    "timeMonth": 611,
+    "timeYear": 611,
     "dailyMinutesDown": {
-      "2021-12-26": 0
+      "2021-12-26": 9
     }
   },
   {
