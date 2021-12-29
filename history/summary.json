@@ -42,10 +42,10 @@
     "url": "https://colecciones.gbif.es",
     "icon": "https://favicons.githubusercontent.com/colecciones.gbif.es",
     "slug": "colecciones-de-historia-natural-de-espana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 1213,
@@ -54,6 +54,7 @@
     "timeMonth": 1213,
     "timeYear": 1213,
     "dailyMinutesDown": {
+      "2021-12-29": 1,
       "2021-12-27": 19,
       "2021-12-10": 26
     }
