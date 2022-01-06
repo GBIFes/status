@@ -24,19 +24,19 @@
     "url": "https://datos.gbif.es",
     "icon": "https://favicons.githubusercontent.com/datos.gbif.es",
     "slug": "portal-de-datos-de-gbif-es",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "91.47%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.73%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "91.06%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.72%",
     "time": 694,
     "timeDay": 710,
     "timeWeek": 713,
     "timeMonth": 704,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2022-01-06": 122,
+      "2022-01-06": 128,
       "2021-12-10": 27
     }
   },
@@ -45,11 +45,11 @@
     "url": "https://colecciones.gbif.es",
     "icon": "https://favicons.githubusercontent.com/colecciones.gbif.es",
     "slug": "colecciones-de-historia-natural-de-espana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "91.57%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "91.20%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "99.39%",
     "time": 1233,
     "timeDay": 1301,
@@ -57,7 +57,7 @@
     "timeMonth": 1246,
     "timeYear": 1233,
     "dailyMinutesDown": {
-      "2022-01-06": 122,
+      "2022-01-06": 127,
       "2021-12-29": 163,
       "2021-12-27": 19,
       "2021-12-10": 26
@@ -68,19 +68,19 @@
     "url": "https://registros.gbif.es",
     "icon": "https://favicons.githubusercontent.com/registros.gbif.es",
     "slug": "busqueda-de-registros-portal-de-datos-de-gbif-es",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "93.63%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.83%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "93.30%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.82%",
     "time": 1502,
     "timeDay": 2765,
     "timeWeek": 1972,
     "timeMonth": 1565,
     "timeYear": 1502,
     "dailyMinutesDown": {
-      "2022-01-06": 92
+      "2022-01-06": 97
     }
   },
   {
@@ -88,11 +88,11 @@
     "url": "https://registros-ws.gbif.es",
     "icon": "https://favicons.githubusercontent.com/registros-ws.gbif.es",
     "slug": "registros-webservices",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "93.69%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "93.38%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.83%",
     "time": 782,
     "timeDay": 2119,
@@ -100,7 +100,7 @@
     "timeMonth": 832,
     "timeYear": 782,
     "dailyMinutesDown": {
-      "2022-01-06": 91
+      "2022-01-06": 95
     }
   },
   {
@@ -108,19 +108,19 @@
     "url": "https://especies.gbif.es",
     "icon": "https://favicons.githubusercontent.com/especies.gbif.es",
     "slug": "especies",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "91.84%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.70%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "91.55%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.69%",
     "time": 754,
     "timeDay": 742,
     "timeWeek": 760,
     "timeMonth": 771,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2022-01-06": 118,
+      "2022-01-06": 122,
       "2021-12-26": 46
     }
   },
@@ -129,19 +129,19 @@
     "url": "https://especies-ws.gbif.es",
     "icon": "https://favicons.githubusercontent.com/especies-ws.gbif.es",
     "slug": "especies-webservices",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "91.93%",
-    "uptimeWeek": "98.85%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "91.66%",
+    "uptimeWeek": "98.81%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.78%",
     "time": 762,
     "timeDay": 800,
     "timeWeek": 791,
     "timeMonth": 773,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2022-01-06": 116
+      "2022-01-06": 120
     }
   },
   {
@@ -149,19 +149,19 @@
     "url": "https://regiones.gbif.es",
     "icon": "https://favicons.githubusercontent.com/regiones.gbif.es",
     "slug": "regiones",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "92.01%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.79%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "91.78%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.78%",
     "time": 943,
     "timeDay": 3029,
     "timeWeek": 1671,
     "timeMonth": 1031,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2022-01-06": 116
+      "2022-01-06": 119
     }
   },
   {
@@ -169,10 +169,10 @@
     "url": "https://listas.gbif.es",
     "icon": "https://favicons.githubusercontent.com/listas.gbif.es",
     "slug": "listas-de-especies",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "90.99%",
-    "uptimeWeek": "98.71%",
+    "uptimeDay": "90.77%",
+    "uptimeWeek": "98.68%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.76%",
     "time": 902,
@@ -181,7 +181,7 @@
     "timeMonth": 918,
     "timeYear": 902,
     "dailyMinutesDown": {
-      "2022-01-06": 130
+      "2022-01-06": 133
     }
   },
   {
@@ -189,19 +189,19 @@
     "url": "https://espacial.gbif.es",
     "icon": "https://favicons.githubusercontent.com/espacial.gbif.es",
     "slug": "portal-espacial",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "91.04%",
-    "uptimeWeek": "98.72%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "90.84%",
+    "uptimeWeek": "98.69%",
     "uptimeMonth": "99.42%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.53%",
     "time": 1802,
     "timeDay": 1336,
     "timeWeek": 1392,
     "timeMonth": 1998,
     "timeYear": 1802,
     "dailyMinutesDown": {
-      "2022-01-06": 129,
+      "2022-01-06": 132,
       "2021-12-11": 123
     }
   },
@@ -210,11 +210,11 @@
     "url": "https://imagenes.gbif.es",
     "icon": "https://favicons.githubusercontent.com/imagenes.gbif.es",
     "slug": "servicio-de-imagenes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "92.85%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "92.68%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.76%",
     "time": 4999,
     "timeDay": 7184,
@@ -222,7 +222,7 @@
     "timeMonth": 4882,
     "timeYear": 4999,
     "dailyMinutesDown": {
-      "2022-01-06": 103,
+      "2022-01-06": 106,
       "2021-12-10": 26
     }
   },
@@ -231,10 +231,10 @@
     "url": "https://auth.gbif.es/cas/",
     "icon": "https://favicons.githubusercontent.com/auth.gbif.es",
     "slug": "cas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "92.91%",
-    "uptimeWeek": "98.99%",
+    "uptimeDay": "92.76%",
+    "uptimeWeek": "98.97%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.52%",
     "time": 838,
@@ -243,7 +243,7 @@
     "timeMonth": 787,
     "timeYear": 838,
     "dailyMinutesDown": {
-      "2022-01-06": 102,
+      "2022-01-06": 104,
       "2021-12-17": 87,
       "2021-12-10": 25,
       "2021-11-29": 49
@@ -254,10 +254,10 @@
     "url": "https://auth.gbif.es/userdetails/",
     "icon": "https://favicons.githubusercontent.com/auth.gbif.es",
     "slug": "userdetails",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "92.94%",
-    "uptimeWeek": "98.99%",
+    "uptimeDay": "92.81%",
+    "uptimeWeek": "98.97%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.77%",
     "time": 315,
@@ -266,7 +266,7 @@
     "timeMonth": 319,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2022-01-06": 102,
+      "2022-01-06": 104,
       "2021-12-10": 25
     }
   },
@@ -275,10 +275,10 @@
     "url": "https://auth.gbif.es/apikey/",
     "icon": "https://favicons.githubusercontent.com/auth.gbif.es",
     "slug": "apikey",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "93.02%",
-    "uptimeWeek": "99.00%",
+    "uptimeDay": "92.89%",
+    "uptimeWeek": "98.98%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.77%",
     "time": 310,
@@ -287,7 +287,7 @@
     "timeMonth": 310,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2022-01-06": 100,
+      "2022-01-06": 102,
       "2021-12-10": 24
     }
   },
@@ -296,11 +296,11 @@
     "url": "https://auth.gbif.es/cas-management/",
     "icon": "https://favicons.githubusercontent.com/auth.gbif.es",
     "slug": "cas-management",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "93.09%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "92.98%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.57%",
     "time": 606,
     "timeDay": 542,
@@ -308,7 +308,7 @@
     "timeMonth": 585,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2022-01-06": 100,
+      "2022-01-06": 101,
       "2021-12-17": 86,
       "2021-11-29": 49
     }
@@ -318,10 +318,10 @@
     "url": "https://doi.gbif.es",
     "icon": "https://favicons.githubusercontent.com/doi.gbif.es",
     "slug": "servicio-de-doi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "93.88%",
-    "uptimeWeek": "99.13%",
+    "uptimeDay": "93.79%",
+    "uptimeWeek": "99.11%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.84%",
     "time": 976,
@@ -330,7 +330,7 @@
     "timeMonth": 1057,
     "timeYear": 976,
     "dailyMinutesDown": {
-      "2022-01-06": 88
+      "2022-01-06": 89
     }
   },
   {
@@ -338,10 +338,10 @@
     "url": "https://dashboard.gbif.es",
     "icon": "https://favicons.githubusercontent.com/dashboard.gbif.es",
     "slug": "dashboard-de-gbif-es",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "93.91%",
-    "uptimeWeek": "99.13%",
+    "uptimeDay": "93.83%",
+    "uptimeWeek": "99.12%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.84%",
     "time": 1447,
@@ -350,7 +350,7 @@
     "timeMonth": 1575,
     "timeYear": 1447,
     "dailyMinutesDown": {
-      "2022-01-06": 88
+      "2022-01-06": 89
     }
   },
   {
@@ -358,10 +358,10 @@
     "url": "https://alertas.gbif.es",
     "icon": "https://favicons.githubusercontent.com/alertas.gbif.es",
     "slug": "alertas-de-gbif-es",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "93.23%",
-    "uptimeWeek": "99.03%",
+    "uptimeDay": "93.17%",
+    "uptimeWeek": "99.02%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.73%",
     "time": 893,
@@ -370,7 +370,7 @@
     "timeMonth": 902,
     "timeYear": 893,
     "dailyMinutesDown": {
-      "2022-01-06": 98,
+      "2022-01-06": 99,
       "2021-11-29": 49
     }
   },
@@ -379,9 +379,9 @@
     "url": "https://logger.gbif.es",
     "icon": "https://favicons.githubusercontent.com/logger.gbif.es",
     "slug": "logger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "93.29%",
+    "uptimeDay": "93.27%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.82%",
