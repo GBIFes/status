@@ -44,7 +44,7 @@ sites:
     url: https://alertas.gbif.es
     maxRedirects: 10
   - name: Logger
-    url: https://logger.gbif.es
+    url: https://logger.gbif.es/service/logger/reasons
   - name: IPT
     url: https://ipt.gbif.es
   - name: IPT demo
