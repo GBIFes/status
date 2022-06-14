@@ -335,19 +335,17 @@
     "icon": "https://favicons.githubusercontent.com/logger.gbif.es",
     "slug": "logger-service",
     "status": "up",
-    "uptime": "10.61%",
-    "uptimeDay": "10.61%",
-    "uptimeWeek": "10.61%",
-    "uptimeMonth": "10.61%",
-    "uptimeYear": "10.61%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 853,
     "timeDay": 853,
     "timeWeek": 853,
     "timeMonth": 853,
     "timeYear": 853,
-    "dailyMinutesDown": {
-      "2022-06-14": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Logger reasons url",
@@ -355,19 +353,17 @@
     "icon": "https://favicons.githubusercontent.com/logger.gbif.es",
     "slug": "logger-reasons-url",
     "status": "up",
-    "uptime": "9.64%",
-    "uptimeDay": "9.64%",
-    "uptimeWeek": "9.64%",
-    "uptimeMonth": "9.64%",
-    "uptimeYear": "9.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 194,
     "timeDay": 194,
     "timeWeek": 194,
     "timeMonth": 194,
     "timeYear": 194,
-    "dailyMinutesDown": {
-      "2022-06-14": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Namematching service",
