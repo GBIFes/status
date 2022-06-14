@@ -1,9 +1,12 @@
 # UPPTIME configuration
 #
-# Follow these instructions to create a status page like https://github.com/GBIFes/status for your LA Portal
+# Follow these instructions to create a status page like https://github.com/GBIFes/status for your LA Portal:
 #
-
-# 3) copy the dot-upptimerc.yml as .upptimerc.yml in your cloned repository
+#
+# 1) Follow the https://upptime.js.org/docs/get-started/ instructions
+# 2) copy the dot-upptimerc.yml as .upptimerc.yml in your uptime status created repository
+# 3) Update the github owner/repo and for instance the icons in this configuration
+# 4) That is
 
 # Change these first
 owner: GBIFes # Your GitHub organization or username, where this repository lives (for instance, biodiversiydata-se in the case of https://github.com/biodiversitydata-se)
