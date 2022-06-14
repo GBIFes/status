@@ -51,9 +51,9 @@ sites:
   - name: Image service
     url: https://imagenes.gbif.es
   - name: Logger service
-    url: https://logger.gbif.es/service
+    url: https://logger.gbif.es
   - name: Logger reasons url
-    url: https://logger.gbif.es/logger/reasons
+    url: https://logger.gbif.es/service/logger/reasons
   - name: Namematching service
     url: https://name-matching.gbif.es
   - name: Regions service
