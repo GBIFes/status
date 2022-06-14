@@ -1,50 +1,77 @@
+# UPPTIME configuration
+#
+# Follow these instructions to create a status page like https://github.com/GBIFes/status for your LA Portal
+#
+
+# 3) copy the dot-upptimerc.yml as .upptimerc.yml in your cloned repository
+
 # Change these first
-owner: GBIFes # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: GBIFes # Your GitHub organization or username, where this repository lives (for instance, biodiversiydata-se in the case of https://github.com/biodiversitydata-se)
+repo: status # The name of this repository (for instance, like: https://github.com/GBIFes/status)
+
 
 sites:
-
-  - name: GBIF Spain
+  - name: Portal de Datos de GBIF.ES
     url: https://gbif.es
-  - name: Portal de Datos de GBIF.es
-    url: https://datos.gbif.es
-  - name: Colecciones de historia natural de España
-    url: https://colecciones.gbif.es
-  - name: Búsqueda de registros Portal de Datos de GBIF.ES
-    url: https://registros.gbif.es
-  - name: Registros Webservices
-    url: https://registros-ws.gbif.es
-  - name: Especies
-    url: https://especies.gbif.es
-  - name: Especies Webservices
-    url: https://especies-ws.gbif.es
-  - name: Regiones
-    url: https://regiones.gbif.es
-  - name: Listas de Especies
-    url: https://listas.gbif.es
-  - name: Portal Espacial
-    url: https://espacial.gbif.es
-  - name: Servicio de Imágenes
-    url: https://imagenes.gbif.es
-  - name: CAS
-    url: https://auth.gbif.es/cas/
-    maxRedirects: 10
-  - name: Userdetails
-    url: https://auth.gbif.es/userdetails/
-  - name: Apikey
-    url: https://auth.gbif.es/apikey/
-  - name: CAS Management
-    url: https://auth.gbif.es/cas-management/
-    maxRedirects: 10
-  - name: Servicio de DOI
-    url: https://doi.gbif.es
-  - name: Dashboard de GBIF.es
-    url: https://dashboard.gbif.es
-  - name: Alertas de GBIF.es
+  - name: Alerts service
     url: https://alertas.gbif.es
     maxRedirects: 10
-  - name: Logger
-    url: https://logger.gbif.es/service/logger/reasons
+  - name: Apikey service
+    url: https://auth.gbif.es/apikey
+  - name: CAS service
+    url: https://auth.gbif.es/cas
+    maxRedirects: 10
+  - name: CAS management service
+    url: https://auth.gbif.es/cas-management/
+    maxRedirects: 10
+  - name: Userdetails service
+    url: https://auth.gbif.es/userdetails
+  - name: Species service (bie)
+    url: https://especies.gbif.es
+  - name: Species web services (bie-index)
+    url: https://especies-ws.gbif.es
+  - name: Records service (biocache)
+    url: https://registros.gbif.es
+  - name: Records web services (biocache-service)
+    url: https://registros-ws.gbif.es
+  - name: Collections service
+    url: https://colecciones.gbif.es
+  - name: Collections web services
+    url: https://colecciones.gbif.es/ws
+  - name: Dashboard service
+    url: https://dashboard.gbif.es
+  - name: Data quality service
+    url: https://data-quality.gbif.es
+  - name: DOI web services
+    url: https://doi.gbif.es/api/
+  - name: DOI service
+    url: https://doi.gbif.es
+  - name: Branding website
+    url: https://datos.gbif.es/brand-2020-brunch
+  - name: Image service
+    url: https://imagenes.gbif.es
+  - name: Logger service
+    url: https://logger.gbif.es/service
+  - name: Logger reasons url
+    url: https://logger.gbif.es/logger/reasons
+  - name: Namematching service
+    url: https://name-matching.gbif.es
+  - name: Regions service
+    url: https://regiones.gbif.es
+  - name: Sensitive service
+    url: https://sds.gbif.es
+  - name: Spatial hub service
+    url: https://espacial.gbif.es
+  - name: Spatial web service
+    url: https://espacial.gbif.es/ws
+  - name: Spatial fields
+    url: https://espacial.gbif.es/ws/fields
+  - name: Geonetwork service
+    url: https://espacial.gbif.es/geonetwork
+  - name: Geoserver service
+    url: https://espacial.gbif.es/geoserver
+  - name: Species Lists service
+    url: https://listas.gbif.es
   - name: IPT
     url: https://ipt.gbif.es
   - name: IPT demo
@@ -73,4 +100,8 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
+# For instance, you can send notifications to a telegram group
+#
 # See https://upptime.js.org/docs/configuration
+
+
