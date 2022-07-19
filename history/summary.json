@@ -436,19 +436,19 @@
     "url": "https://espacial.gbif.es",
     "icon": "https://favicons.githubusercontent.com/espacial.gbif.es",
     "slug": "spatial-hub-service",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1378,
-    "timeDay": 1117,
-    "timeWeek": 1491,
-    "timeMonth": 1390,
-    "timeYear": 1378,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1379,
+    "timeDay": 1269,
+    "timeWeek": 1482,
+    "timeMonth": 1391,
+    "timeYear": 1379,
     "dailyMinutesDown": {
-      "2022-07-19": 5
+      "2022-07-19": 8
     }
   },
   {
@@ -456,19 +456,19 @@
     "url": "https://espacial.gbif.es/ws",
     "icon": "https://favicons.githubusercontent.com/espacial.gbif.es",
     "slug": "spatial-web-service",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 438,
-    "timeDay": 362,
-    "timeWeek": 488,
-    "timeMonth": 439,
-    "timeYear": 438,
+    "time": 439,
+    "timeDay": 423,
+    "timeWeek": 487,
+    "timeMonth": 441,
+    "timeYear": 439,
     "dailyMinutesDown": {
-      "2022-07-19": 3
+      "2022-07-19": 7
     }
   },
   {
@@ -476,19 +476,19 @@
     "url": "https://espacial.gbif.es/ws/fields",
     "icon": "https://favicons.githubusercontent.com/espacial.gbif.es",
     "slug": "spatial-fields",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 168,
-    "timeDay": 140,
-    "timeWeek": 191,
+    "timeDay": 157,
+    "timeWeek": 189,
     "timeMonth": 169,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2022-07-19": 2
+      "2022-07-19": 5
     }
   },
   {
