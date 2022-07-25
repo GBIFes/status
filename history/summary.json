@@ -175,18 +175,18 @@
     "icon": "https://favicons.githubusercontent.com/registros-ws.gbif.es",
     "slug": "records-web-services-biocache-service",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "95.28%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.87%",
+    "uptimeDay": "94.66%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.87%",
     "time": 741,
     "timeDay": 682,
     "timeWeek": 732,
     "timeMonth": 759,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2022-07-25": 68
+      "2022-07-25": 77
     }
   },
   {
@@ -438,19 +438,19 @@
     "url": "https://espacial.gbif.es",
     "icon": "https://favicons.githubusercontent.com/espacial.gbif.es",
     "slug": "spatial-hub-service",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1405,
-    "timeDay": 1399,
-    "timeWeek": 1498,
-    "timeMonth": 1434,
-    "timeYear": 1405,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 1413,
+    "timeDay": 1579,
+    "timeWeek": 1527,
+    "timeMonth": 1444,
+    "timeYear": 1413,
     "dailyMinutesDown": {
-      "2022-07-25": 13
+      "2022-07-25": 21
     }
   },
   {
@@ -458,19 +458,19 @@
     "url": "https://espacial.gbif.es/ws",
     "icon": "https://favicons.githubusercontent.com/espacial.gbif.es",
     "slug": "spatial-web-service",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 449,
-    "timeDay": 455,
-    "timeWeek": 491,
-    "timeMonth": 457,
-    "timeYear": 449,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 453,
+    "timeDay": 551,
+    "timeWeek": 508,
+    "timeMonth": 463,
+    "timeYear": 453,
     "dailyMinutesDown": {
-      "2022-07-25": 12
+      "2022-07-25": 20
     }
   },
   {
@@ -479,19 +479,17 @@
     "icon": "https://favicons.githubusercontent.com/espacial.gbif.es",
     "slug": "spatial-fields",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 589,
     "timeDay": 9771,
     "timeWeek": 2317,
     "timeMonth": 776,
     "timeYear": 589,
-    "dailyMinutesDown": {
-      "2022-07-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Geonetwork service",
@@ -499,19 +497,17 @@
     "icon": "https://favicons.githubusercontent.com/espacial.gbif.es",
     "slug": "geonetwork-service",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 812,
     "timeDay": 2500,
     "timeWeek": 1163,
     "timeMonth": 791,
     "timeYear": 812,
-    "dailyMinutesDown": {
-      "2022-07-25": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Geoserver service",
@@ -519,19 +515,17 @@
     "icon": "https://favicons.githubusercontent.com/espacial.gbif.es",
     "slug": "geoserver-service",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 408,
     "timeDay": 2347,
     "timeWeek": 847,
     "timeMonth": 454,
     "timeYear": 408,
-    "dailyMinutesDown": {
-      "2022-07-25": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Species Lists service",
