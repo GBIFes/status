@@ -237,18 +237,18 @@
     "icon": "https://favicons.githubusercontent.com/dashboard.gbif.es",
     "slug": "dashboard-service",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 1477,
     "timeDay": 2628,
     "timeWeek": 2164,
     "timeMonth": 1626,
     "timeYear": 1477,
     "dailyMinutesDown": {
-      "2022-07-25": 3
+      "2022-07-25": 20
     }
   },
   {
@@ -364,19 +364,19 @@
     "url": "https://logger.gbif.es/service/logger/reasons",
     "icon": "https://favicons.githubusercontent.com/logger.gbif.es",
     "slug": "logger-reasons-url",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 213,
-    "timeWeek": 206,
-    "timeMonth": 201,
-    "timeYear": 186,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 185,
+    "timeDay": 195,
+    "timeWeek": 202,
+    "timeMonth": 200,
+    "timeYear": 185,
     "dailyMinutesDown": {
-      "2022-07-25": 2
+      "2022-07-25": 18
     }
   },
   {
@@ -536,19 +536,19 @@
     "url": "https://listas.gbif.es",
     "icon": "https://favicons.githubusercontent.com/listas.gbif.es",
     "slug": "species-lists-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1046,
-    "timeDay": 1004,
-    "timeWeek": 1112,
-    "timeMonth": 1046,
-    "timeYear": 1046,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 1076,
+    "timeDay": 1690,
+    "timeWeek": 1270,
+    "timeMonth": 1089,
+    "timeYear": 1076,
     "dailyMinutesDown": {
-      "2022-07-25": 0
+      "2022-07-25": 17
     }
   },
   {
