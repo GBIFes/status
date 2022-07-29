@@ -330,19 +330,19 @@
     "url": "https://imagenes.gbif.es",
     "icon": "https://favicons.githubusercontent.com/imagenes.gbif.es",
     "slug": "image-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1117,
-    "timeDay": 901,
-    "timeWeek": 1141,
-    "timeMonth": 1119,
-    "timeYear": 1117,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 1121,
+    "timeDay": 1026,
+    "timeWeek": 1156,
+    "timeMonth": 1124,
+    "timeYear": 1121,
     "dailyMinutesDown": {
-      "2022-07-29": 1
+      "2022-07-29": 26
     }
   },
   {
