@@ -4,11 +4,11 @@
     "url": "https://gbif.es",
     "icon": "https://favicons.githubusercontent.com/gbif.es",
     "slug": "portal-de-datos-de-gbif-es",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.74%",
     "time": 898,
     "timeDay": 1391,
@@ -16,7 +16,7 @@
     "timeMonth": 1565,
     "timeYear": 898,
     "dailyMinutesDown": {
-      "2022-08-03": 12,
+      "2022-08-03": 3,
       "2022-05-27": 50,
       "2022-01-08": 509,
       "2022-01-07": 73,
@@ -563,11 +563,11 @@
     "url": "https://ipt.gbif.es",
     "icon": "https://favicons.githubusercontent.com/ipt.gbif.es",
     "slug": "ipt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1469,
     "timeDay": 1253,
@@ -575,6 +575,7 @@
     "timeMonth": 1408,
     "timeYear": 1469,
     "dailyMinutesDown": {
+      "2022-08-03": 2,
       "2021-12-15": 54
     }
   },
@@ -583,10 +584,10 @@
     "url": "https://ipt-demo.gbif.es",
     "icon": "https://favicons.githubusercontent.com/ipt-demo.gbif.es",
     "slug": "ipt-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 766,
@@ -594,7 +595,9 @@
     "timeWeek": 715,
     "timeMonth": 741,
     "timeYear": 766,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-03": 2
+    }
   },
   {
     "name": "LA demo",
@@ -622,10 +625,10 @@
     "url": "https://elearning.gbif.es",
     "icon": "https://favicons.githubusercontent.com/elearning.gbif.es",
     "slug": "e-learning-gbif-es",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 960,
@@ -633,17 +636,19 @@
     "timeWeek": 965,
     "timeMonth": 1031,
     "timeYear": 960,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-03": 1
+    }
   },
   {
     "name": "Repositorio APT",
     "url": "apt.gbif.es",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "repositorio-apt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 858,
@@ -651,14 +656,16 @@
     "timeWeek": 773,
     "timeMonth": 832,
     "timeYear": 858,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-03": 1
+    }
   },
   {
     "name": "Infraestructura Iberoamericana de Información sobre Biodiversidad",
     "url": "https://recibio.net",
     "icon": "https://favicons.githubusercontent.com/recibio.net",
     "slug": "infraestructura-iberoamericana-de-informacion-sobre-biodiversidad",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
