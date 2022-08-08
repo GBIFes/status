@@ -28,46 +28,50 @@
     "url": "https://alertas.gbif.es",
     "icon": "https://favicons.githubusercontent.com/alertas.gbif.es",
     "slug": "alerts-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1520,
     "timeDay": 1778,
     "timeWeek": 1605,
     "timeMonth": 1585,
     "timeYear": 1520,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-08": 3
+    }
   },
   {
     "name": "Apikey service",
     "url": "https://auth.gbif.es/apikey",
     "icon": "https://favicons.githubusercontent.com/auth.gbif.es",
     "slug": "apikey-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 793,
     "timeDay": 1038,
     "timeWeek": 850,
     "timeMonth": 804,
     "timeYear": 793,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-08": 2
+    }
   },
   {
     "name": "CAS service",
     "url": "https://auth.gbif.es/cas",
     "icon": "https://favicons.githubusercontent.com/auth.gbif.es",
     "slug": "cas-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 744,
@@ -75,17 +79,19 @@
     "timeWeek": 816,
     "timeMonth": 786,
     "timeYear": 744,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-08": 2
+    }
   },
   {
     "name": "CAS management service",
     "url": "https://auth.gbif.es/cas-management/",
     "icon": "https://favicons.githubusercontent.com/auth.gbif.es",
     "slug": "cas-management-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 612,
@@ -93,17 +99,19 @@
     "timeWeek": 672,
     "timeMonth": 645,
     "timeYear": 612,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-08": 1
+    }
   },
   {
     "name": "Userdetails service",
     "url": "https://auth.gbif.es/userdetails",
     "icon": "https://favicons.githubusercontent.com/auth.gbif.es",
     "slug": "userdetails-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 523,
@@ -111,7 +119,9 @@
     "timeWeek": 628,
     "timeMonth": 562,
     "timeYear": 523,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-08": 1
+    }
   },
   {
     "name": "Species service (bie)",
