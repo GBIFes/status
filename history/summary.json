@@ -164,10 +164,10 @@
     "url": "https://registros.gbif.es",
     "icon": "https://favicons.githubusercontent.com/registros.gbif.es",
     "slug": "records-service-biocache",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 1575,
@@ -176,6 +176,7 @@
     "timeMonth": 1545,
     "timeYear": 1575,
     "dailyMinutesDown": {
+      "2022-08-28": 2,
       "2022-07-01": 332
     }
   },
@@ -420,9 +421,9 @@
     "url": "https://regiones.gbif.es",
     "icon": "https://favicons.githubusercontent.com/regiones.gbif.es",
     "slug": "regions-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
@@ -432,6 +433,7 @@
     "timeMonth": 789,
     "timeYear": 835,
     "dailyMinutesDown": {
+      "2022-08-28": 0,
       "2022-07-01": 343
     }
   },
