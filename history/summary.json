@@ -746,17 +746,17 @@
     "url": "https://recibio.net",
     "icon": "https://favicons.githubusercontent.com/recibio.net",
     "slug": "infraestructura-iberoamericana-de-informacion-sobre-biodiversidad",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1635,
-    "timeDay": 2247,
+    "time": 1634,
+    "timeDay": 1921,
     "timeWeek": 1597,
-    "timeMonth": 1526,
-    "timeYear": 1635,
+    "timeMonth": 1528,
+    "timeYear": 1634,
     "dailyMinutesDown": {}
   }
 ]
