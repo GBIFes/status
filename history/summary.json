@@ -401,10 +401,10 @@
     "url": "https://logger.gbif.es",
     "icon": "https://favicons.githubusercontent.com/logger.gbif.es",
     "slug": "logger-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 813,
@@ -413,6 +413,7 @@
     "timeMonth": 794,
     "timeYear": 813,
     "dailyMinutesDown": {
+      "2022-09-26": 1,
       "2022-09-22": 22,
       "2022-09-01": 22
     }
@@ -422,10 +423,10 @@
     "url": "https://logger.gbif.es/service/logger/reasons",
     "icon": "https://favicons.githubusercontent.com/logger.gbif.es",
     "slug": "logger-reasons-url",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.92%",
     "time": 166,
@@ -434,6 +435,7 @@
     "timeMonth": 149,
     "timeYear": 166,
     "dailyMinutesDown": {
+      "2022-09-26": 1,
       "2022-09-22": 21,
       "2022-09-01": 22,
       "2022-07-29": 51,
