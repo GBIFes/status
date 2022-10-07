@@ -753,17 +753,17 @@
     "url": "https://recibio.net",
     "icon": "https://icons.duckduckgo.com/ip3/recibio.net.ico",
     "slug": "infraestructura-iberoamericana-de-informacion-sobre-biodiversidad",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1635,
-    "timeDay": 1673,
-    "timeWeek": 1784,
-    "timeMonth": 1594,
-    "timeYear": 1635,
+    "time": 1648,
+    "timeDay": 3951,
+    "timeWeek": 2229,
+    "timeMonth": 1727,
+    "timeYear": 1648,
     "dailyMinutesDown": {}
   }
 ]
