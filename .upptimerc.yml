@@ -45,6 +45,8 @@ sites:
     url: https://dashboard.gbif.es
   - name: Data quality service
     url: https://data-quality.gbif.es
+  - name: Data quality profiles
+    url: https://data-quality.gbif.es/api/v1/data-profiles?enabled=true
   - name: DOI web services
     url: https://doi.gbif.es/api/
   - name: DOI service
