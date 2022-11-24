@@ -805,17 +805,17 @@
     "url": "https://recibio.net",
     "icon": "https://icons.duckduckgo.com/ip3/recibio.net.ico",
     "slug": "infraestructura-iberoamericana-de-informacion-sobre-biodiversidad",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1661,
-    "timeDay": 1516,
-    "timeWeek": 1573,
-    "timeMonth": 1586,
-    "timeYear": 1661,
+    "time": 1662,
+    "timeDay": 1762,
+    "timeWeek": 1612,
+    "timeMonth": 1596,
+    "timeYear": 1662,
     "dailyMinutesDown": {}
   }
 ]
