@@ -77,6 +77,8 @@ sites:
     url: https://espacial.gbif.es/geoserver
   - name: Species Lists service
     url: https://listas.gbif.es
+  - name: Sensitive data service
+    url: https://datos-sensibles.gbif.es
   - name: IPT
     url: https://ipt.gbif.es
   - name: IPT demo
