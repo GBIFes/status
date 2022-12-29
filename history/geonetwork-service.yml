@@ -1,7 +1,7 @@
 url: https://espacial.gbif.es/geonetwork
-status: up
-code: 200
-responseTime: 526
-lastUpdated: 2022-12-28T23:10:34.455Z
+status: down
+code: 500
+responseTime: 682
+lastUpdated: 2022-12-29T03:17:14.000Z
 startTime: Tue Jun 14 2022 08:01:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
