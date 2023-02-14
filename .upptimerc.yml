@@ -61,6 +61,12 @@ sites:
     url: https://logger.gbif.es/service/logger/reasons
   - name: Namematching service
     url: https://name-matching.gbif.es
+  - name: Namematching service (correct name index)
+    url: https://name-matching.gbif.es/api/search?q=Cenchrus%20setaceus
+    __dangerous__body_down: "id.biodiversity.org.au"
+  - name: Namematching service (correct basionyms)
+    url: https://name-matching.gbif.es/api/search?q=Cenchrus%20setaceus
+    __dangerous__body_down: "Morrone (Forssk.)"
   - name: Regions service
     url: https://regiones.gbif.es
   - name: Sensitive service
@@ -79,6 +85,9 @@ sites:
     url: https://listas.gbif.es
   - name: Sensitive data service
     url: https://datos-sensibles.gbif.es
+  - name: Sensitive data service (correct name index)
+    url: https://datos-sensibles.gbif.es/api/isSensitive?scientificName=lynx%20pardinus
+    __dangerous__body_down: "false"
   - name: IPT
     url: https://ipt.gbif.es
   - name: IPT demo
