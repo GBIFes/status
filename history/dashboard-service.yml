@@ -1,7 +1,7 @@
 url: https://dashboard.gbif.es
-status: down
-code: 500
-responseTime: 365
-lastUpdated: 2023-05-18T09:13:34.507Z
+status: up
+code: 200
+responseTime: 901
+lastUpdated: 2023-05-18T09:23:51.579Z
 startTime: Tue Jun 14 2022 08:00:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
