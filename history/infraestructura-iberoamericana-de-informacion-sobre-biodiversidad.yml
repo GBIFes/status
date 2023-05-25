@@ -1,7 +1,7 @@
 url: https://recibio.net
-status: down
-code: 502
-responseTime: 3604
-lastUpdated: 2023-05-25T16:40:22.758Z
+status: up
+code: 200
+responseTime: 1317
+lastUpdated: 2023-05-25T23:09:32.393Z
 startTime: Mon Nov 29 2021 20:59:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
