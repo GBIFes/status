@@ -14,8 +14,10 @@ repo: status # The name of this repository (for instance, like: https://github.c
 
 
 sites:
-  - name: Portal de Datos de GBIF.ES
+  - name: Web de GBIF.ES
     url: https://gbif.es
+  - name: Portal de Datos de GBIF.ES
+    url: https://datos.gbif.es
   - name: Alerts service
     url: https://alertas.gbif.es
     maxRedirects: 10
@@ -100,7 +102,9 @@ sites:
     url: apt.gbif.es
   - name: Infraestructura Iberoamericana de Información sobre Biodiversidad
     url: https://recibio.net
-
+  - name: Difusion
+    url: difusion.gbif.es
+    
 status-website:
   #cname: demo.upptime.js.org
   baseUrl: /status
