@@ -1,7 +1,7 @@
 url: https://auth.gbif.es/cas-management/
-status: up
-code: 200
-responseTime: 337
-lastUpdated: 2023-09-06T23:09:00.418Z
+status: down
+code: 503
+responseTime: 3498
+lastUpdated: 2023-09-07T12:35:33.432Z
 startTime: 2022-06-14T08:00:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
