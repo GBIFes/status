@@ -1,7 +1,7 @@
 url: https://data-quality.gbif.es/api/v1/data-profiles?enabled=true
 status: up
 code: 200
-responseTime: 201
-lastUpdated: 2023-09-15T23:09:09.987Z
+responseTime: 163
+lastUpdated: 2023-09-16T23:08:48.321Z
 startTime: 2022-10-27T09:10:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
