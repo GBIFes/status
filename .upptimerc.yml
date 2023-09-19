@@ -35,8 +35,12 @@ sites:
     url: https://especies.gbif.es
   - name: Species web services (bie-index)
     url: https://especies-ws.gbif.es
+  - name: Species test search    
+    url: https://especies.gbif.es/search?q=acacia
   - name: Records service (biocache)
     url: https://registros.gbif.es
+  - name: Records test search
+    url: https://registros.gbif.es/occurrences/search?q=taxa%3A%22acacia%22#tab_recordsView
   - name: Records web services (biocache-service)
     url: https://registros-ws.gbif.es
   - name: Collections service
