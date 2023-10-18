@@ -1,7 +1,7 @@
 url: https://espacial.gbif.es
-status: down
-code: 503
-responseTime: 911
-lastUpdated: 2023-10-18T08:27:10.223Z
+status: up
+code: 200
+responseTime: 1436
+lastUpdated: 2023-10-18T09:00:33.881Z
 startTime: 2022-06-14T08:01:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
