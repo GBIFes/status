@@ -35,10 +35,11 @@ sites:
     url: https://especies.gbif.es
   - name: Species web services (bie-index)
     url: https://especies-ws.gbif.es
-  - name: Species test search    
+  - name: Species test search
     url: https://especies.gbif.es/search?q=acacia
   - name: Records service (biocache)
     url: https://registros.gbif.es
+    __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Records test search
     url: https://registros.gbif.es/occurrences/search?q=taxa%3A%22acacia%22#tab_recordsView
   - name: Records web services (biocache-service)
@@ -110,7 +111,13 @@ sites:
     url: https://recibio.net
   - name: Difusion
     url: difusion.gbif.es
-    
+  - name: CSIC Hub
+    url: https://csic.gbif.es
+  - name: Colecciones Botánicas Hub
+    url: https://colecciones-botanicas.gbif.es/
+  - name: Colecciones Marinas Hub
+    url: https://colecciones-marinas.gbif.es/
+
 status-website:
   #cname: demo.upptime.js.org
   baseUrl: /status
