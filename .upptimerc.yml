@@ -18,8 +18,10 @@ sites:
     url: https://gbif.es
   - name: Portal de Datos de GBIF.ES
     url: https://datos.gbif.es
+    __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Alerts service
     url: https://alertas.gbif.es
+    __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
     maxRedirects: 10
   - name: Apikey service
     url: https://auth.gbif.es/apikey
@@ -31,8 +33,10 @@ sites:
     maxRedirects: 10
   - name: Userdetails service
     url: https://auth.gbif.es/userdetails
+    __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Species service (bie)
     url: https://especies.gbif.es
+    __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Species web services (bie-index)
     url: https://especies-ws.gbif.es
   - name: Species test search
@@ -54,22 +58,27 @@ sites:
     url: https://dashboard.gbif.es
   - name: Data quality service
     url: https://data-quality.gbif.es
+    __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Data quality profiles
     url: https://data-quality.gbif.es/api/v1/data-profiles?enabled=true
   - name: DOI web services
     url: https://doi.gbif.es/api/
+    __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: DOI service
     url: https://doi.gbif.es
   - name: Branding website
     url: https://datos.gbif.es/brand-2020-brunch
   - name: Image service
     url: https://imagenes.gbif.es
+    __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Logger service
     url: https://logger.gbif.es
+    __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Logger reasons url
     url: https://logger.gbif.es/service/logger/reasons
   - name: Namematching service
     url: https://name-matching.gbif.es
+    __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Namematching service (correct name index)
     url: https://name-matching.gbif.es/api/search?q=Cenchrus%20setaceus
     __dangerous__body_down: "id.biodiversity.org.au"
@@ -78,10 +87,13 @@ sites:
     __dangerous__body_down: "Morrone (Forssk.)"
   - name: Regions service
     url: https://regiones.gbif.es
+    __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Sensitive service
     url: https://sds.gbif.es
+    __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Spatial hub service
     url: https://espacial.gbif.es
+    __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Spatial web service
     url: https://espacial.gbif.es/ws
   - name: Spatial fields
@@ -94,6 +106,7 @@ sites:
     url: https://listas.gbif.es
   - name: Sensitive data service
     url: https://datos-sensibles.gbif.es
+    __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Sensitive data service (correct name index)
     url: https://datos-sensibles.gbif.es/api/isSensitive?scientificName=lynx%20pardinus
     __dangerous__body_down: "false"
