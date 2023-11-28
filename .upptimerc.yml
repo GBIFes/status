@@ -45,8 +45,10 @@ sites:
     url: https://registros-ws.gbif.es
   - name: Collections service
     url: https://colecciones.gbif.es
+    __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Collections web services
     url: https://colecciones.gbif.es/ws
+    __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Dashboard service
     url: https://dashboard.gbif.es
   - name: Data quality service
