@@ -638,7 +638,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.91%",
+    "uptimeYear": "98.92%",
     "time": 872,
     "timeDay": 733,
     "timeWeek": 619,
@@ -665,10 +665,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/logger.gbif.es.ico",
     "slug": "logger-reasons-url",
     "status": "down",
-    "uptime": "96.80%",
-    "uptimeDay": "96.44%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.88%",
+    "uptime": "96.79%",
+    "uptimeDay": "92.41%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "98.84%",
     "time": 250,
     "timeDay": 155,
@@ -676,7 +676,7 @@
     "timeMonth": 137,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2024-01-31": 52,
+      "2024-01-31": 110,
       "2023-12-30": 95,
       "2023-11-27": 687,
       "2023-11-09": 30,
@@ -1143,10 +1143,10 @@
     "url": "https://demo.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/demo.gbif.es.ico",
     "slug": "la-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "97.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.68%",
     "time": 649,
@@ -1155,6 +1155,7 @@
     "timeMonth": 575,
     "timeYear": 653,
     "dailyMinutesDown": {
+      "2024-01-31": 1,
       "2023-11-27": 625,
       "2023-10-18": 631,
       "2023-10-17": 1440,
@@ -1282,10 +1283,10 @@
     "url": "https://colecciones-botanicas.gbif.es/",
     "icon": "https://icons.duckduckgo.com/ip3/colecciones-botanicas.gbif.es.ico",
     "slug": "colecciones-botanicas-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 622,
@@ -1293,17 +1294,19 @@
     "timeWeek": 631,
     "timeMonth": 625,
     "timeYear": 622,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-31": 1
+    }
   },
   {
     "name": "Colecciones Marinas Hub",
     "url": "https://colecciones-marinas.gbif.es/",
     "icon": "https://icons.duckduckgo.com/ip3/colecciones-marinas.gbif.es.ico",
     "slug": "colecciones-marinas-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 621,
@@ -1311,6 +1314,8 @@
     "timeWeek": 659,
     "timeMonth": 616,
     "timeYear": 621,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-31": 1
+    }
   }
 ]
