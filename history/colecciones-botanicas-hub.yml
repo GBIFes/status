@@ -1,7 +1,7 @@
 url: https://colecciones-botanicas.gbif.es/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-31T23:10:50.332Z
+status: up
+code: 200
+responseTime: 805
+lastUpdated: 2024-02-01T13:13:43.662Z
 startTime: 2023-11-28T07:56:40.622Z
 generator: Upptime <https://github.com/upptime/upptime>
