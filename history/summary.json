@@ -385,8 +385,7 @@
       "2023-06-05": 20,
       "2023-04-10": 285,
       "2023-04-01": 136,
-      "2023-03-31": 17,
-      "2023-02-01": 18
+      "2023-03-31": 17
     }
   },
   {
@@ -416,8 +415,7 @@
       "2023-09-07": 326,
       "2023-04-10": 285,
       "2023-04-01": 134,
-      "2023-03-31": 16,
-      "2023-02-01": 16
+      "2023-03-31": 16
     }
   },
   {
@@ -638,7 +636,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.01%",
+    "uptimeYear": "99.03%",
     "time": 872,
     "timeDay": 716,
     "timeWeek": 644,
@@ -655,8 +653,7 @@
       "2023-09-08": 400,
       "2023-09-07": 683,
       "2023-04-13": 58,
-      "2023-03-22": 72,
-      "2023-02-01": 525
+      "2023-03-22": 72
     }
   },
   {
@@ -665,10 +662,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/logger.gbif.es.ico",
     "slug": "logger-reasons-url",
     "status": "down",
-    "uptime": "96.74%",
-    "uptimeDay": "60.24%",
-    "uptimeWeek": "94.32%",
-    "uptimeMonth": "98.69%",
+    "uptime": "96.73%",
+    "uptimeDay": "53.03%",
+    "uptimeWeek": "93.29%",
+    "uptimeMonth": "98.46%",
     "uptimeYear": "98.84%",
     "time": 250,
     "timeDay": 161,
@@ -676,7 +673,8 @@
     "timeMonth": 141,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2024-01-31": 573,
+      "2024-02-01": 79,
+      "2024-01-31": 598,
       "2023-12-30": 95,
       "2023-11-27": 687,
       "2023-11-09": 30,
@@ -691,8 +689,7 @@
       "2023-04-12": 98,
       "2023-04-10": 138,
       "2023-03-22": 90,
-      "2023-03-03": 17,
-      "2023-02-01": 525
+      "2023-03-03": 17
     }
   },
   {
@@ -976,7 +973,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/espacial.gbif.es.ico",
     "slug": "geoserver-service",
     "status": "up",
-    "uptime": "98.08%",
+    "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1145,17 +1142,18 @@
     "slug": "la-demo",
     "status": "down",
     "uptime": "97.41%",
-    "uptimeDay": "67.04%",
-    "uptimeWeek": "95.29%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "96.59%",
+    "uptimeDay": "59.85%",
+    "uptimeWeek": "94.26%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "96.57%",
     "time": 649,
     "timeDay": 0,
     "timeWeek": 599,
     "timeMonth": 579,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2024-01-31": 475,
+      "2024-02-01": 79,
+      "2024-01-31": 499,
       "2023-11-27": 625,
       "2023-10-18": 631,
       "2023-10-17": 1440,
@@ -1284,18 +1282,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/colecciones-botanicas.gbif.es.ico",
     "slug": "colecciones-botanicas-hub",
     "status": "down",
-    "uptime": "99.49%",
-    "uptimeDay": "67.04%",
-    "uptimeWeek": "95.29%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "99.49%",
+    "uptime": "99.38%",
+    "uptimeDay": "59.85%",
+    "uptimeWeek": "94.26%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "99.38%",
     "time": 622,
     "timeDay": 0,
     "timeWeek": 648,
     "timeMonth": 627,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2024-01-31": 475
+      "2024-02-01": 79,
+      "2024-01-31": 499
     }
   },
   {
@@ -1304,18 +1303,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/colecciones-marinas.gbif.es.ico",
     "slug": "colecciones-marinas-hub",
     "status": "down",
-    "uptime": "99.49%",
-    "uptimeDay": "67.04%",
-    "uptimeWeek": "95.29%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "99.49%",
+    "uptime": "99.38%",
+    "uptimeDay": "59.85%",
+    "uptimeWeek": "94.26%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "99.38%",
     "time": 621,
     "timeDay": 0,
     "timeWeek": 684,
     "timeMonth": 612,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2024-01-31": 475
+      "2024-02-01": 79,
+      "2024-01-31": 499
     }
   }
 ]
