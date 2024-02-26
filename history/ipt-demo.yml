@@ -1,7 +1,7 @@
 url: https://ipt-demo.gbif.es
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-26T07:57:40.692Z
+status: up
+code: 200
+responseTime: 605
+lastUpdated: 2024-02-26T08:18:58.341Z
 startTime: 2021-11-29T20:37:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
