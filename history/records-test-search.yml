@@ -1,7 +1,7 @@
 url: https://registros.gbif.es/occurrences/search?q=taxa%3A%22acacia%22#tab_recordsView
-status: up
-code: 200
-responseTime: 288
-lastUpdated: 2024-03-12T23:10:41.663Z
+status: down
+code: 500
+responseTime: 10290
+lastUpdated: 2024-03-13T05:51:16.774Z
 startTime: 2023-09-19T04:36:14.119Z
 generator: Upptime <https://github.com/upptime/upptime>
