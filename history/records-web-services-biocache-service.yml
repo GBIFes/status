@@ -1,7 +1,7 @@
 url: https://registros-ws.gbif.es
-status: down
-code: 404
-responseTime: 377
-lastUpdated: 2024-03-18T21:31:17.196Z
+status: up
+code: 200
+responseTime: 667
+lastUpdated: 2024-03-18T21:41:20.789Z
 startTime: 2022-06-14T08:00:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
