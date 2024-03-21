@@ -1,7 +1,7 @@
 url: https://data-quality.gbif.es
-status: down
-code: 502
-responseTime: 411
-lastUpdated: 2024-03-21T06:25:08.197Z
+status: up
+code: 200
+responseTime: 1136
+lastUpdated: 2024-03-21T06:31:14.288Z
 startTime: 2022-06-14T08:00:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
