@@ -1,7 +1,7 @@
 url: https://listas.gbif.es
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-31T23:27:04.768Z
+status: up
+code: 200
+responseTime: 1220
+lastUpdated: 2024-04-01T09:17:52.180Z
 startTime: 2022-06-14T08:01:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
