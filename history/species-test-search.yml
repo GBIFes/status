@@ -1,7 +1,7 @@
 url: https://especies.gbif.es/search?q=acacia
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-09T05:10:56.145Z
+status: up
+code: 200
+responseTime: 472
+lastUpdated: 2024-05-09T05:28:21.927Z
 startTime: 2023-09-19T04:36:10.766Z
 generator: Upptime <https://github.com/upptime/upptime>
