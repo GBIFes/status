@@ -1,7 +1,7 @@
 url: https://espacial.gbif.es/geoserver
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-23T06:53:48.150Z
+status: up
+code: 200
+responseTime: 174
+lastUpdated: 2024-07-23T08:42:46.473Z
 startTime: 2022-06-14T08:01:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
