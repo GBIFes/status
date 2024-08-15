@@ -1,7 +1,7 @@
 url: https://datos-sensibles.gbif.es/api/isSensitive?scientificName=lynx%20pardinus
 status: up
 code: 200
-responseTime: 146
-lastUpdated: 2024-08-13T23:11:54.945Z
+responseTime: 83
+lastUpdated: 2024-08-15T23:11:00.340Z
 startTime: 2023-02-14T09:50:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
