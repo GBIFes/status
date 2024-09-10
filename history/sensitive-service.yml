@@ -1,7 +1,7 @@
 url: https://sds.gbif.es
-status: down
-code: 503
-responseTime: 995
-lastUpdated: 2024-09-09T23:14:51.262Z
+status: up
+code: 200
+responseTime: 965
+lastUpdated: 2024-09-10T07:30:08.487Z
 startTime: 2022-06-14T08:01:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
