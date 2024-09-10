@@ -100,8 +100,6 @@ sites:
     url: https://espacial.gbif.es/ws
   - name: Spatial fields
     url: https://espacial.gbif.es/ws/fields
-  - name: Geonetwork service
-    url: https://espacial.gbif.es/geonetwork
   - name: Geoserver service
     url: https://espacial.gbif.es/geoserver
   - name: Species Lists service
