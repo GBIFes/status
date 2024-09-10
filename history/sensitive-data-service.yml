@@ -1,7 +1,7 @@
 url: https://datos-sensibles.gbif.es
-status: down
-code: 502
-responseTime: 454
-lastUpdated: 2024-09-09T23:15:15.392Z
+status: up
+code: 200
+responseTime: 460
+lastUpdated: 2024-09-10T07:48:35.222Z
 startTime: 2022-12-07T07:54:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
