@@ -325,7 +325,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/especies.gbif.es.ico",
     "slug": "species-test-search",
     "status": "up",
-    "uptime": "98.68%",
+    "uptime": "98.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
@@ -471,7 +471,7 @@
     "slug": "records-test-search",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "94.28%",
+    "uptimeDay": "98.42%",
     "uptimeWeek": "99.18%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "98.82%",
@@ -949,8 +949,7 @@
       "2024-04-10": 256,
       "2024-04-01": 557,
       "2024-03-31": 1175,
-      "2024-02-13": 349,
-      "2024-02-12": 62
+      "2024-02-13": 349
     }
   },
   {
@@ -1042,9 +1041,9 @@
     "slug": "namematching-service",
     "status": "up",
     "uptime": "97.67%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "97.38%",
     "time": 610,
     "timeDay": 481,
@@ -1052,7 +1051,6 @@
     "timeMonth": 532,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2025-02-10": 10,
       "2025-01-20": 21,
       "2024-11-29": 49,
       "2024-11-25": 471,
@@ -1417,7 +1415,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/datos-sensibles.gbif.es.ico",
     "slug": "sensitive-data-service",
     "status": "up",
-    "uptime": "98.92%",
+    "uptime": "98.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
