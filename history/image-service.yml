@@ -1,7 +1,7 @@
 url: https://imagenes.gbif.es
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-23T23:22:29.065Z
+code: 503
+responseTime: 467
+lastUpdated: 2025-02-24T23:14:42.476Z
 startTime: 2022-06-14T08:01:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
