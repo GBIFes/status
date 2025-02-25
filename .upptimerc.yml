@@ -119,11 +119,11 @@ sites:
   - name: eLearning GBIF.es
     url: https://elearning.gbif.es
   - name: Repositorio APT
-    url: apt.gbif.es
+    url: https://apt.gbif.es
   - name: Infraestructura Iberoamericana de Información sobre Biodiversidad
     url: https://recibio.net
   - name: Difusion
-    url: difusion.gbif.es
+    url: https://difusion.gbif.es
   - name: CSIC Hub
     url: https://csic.gbif.es
   - name: Colecciones Botánicas Hub
