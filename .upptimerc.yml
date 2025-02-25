@@ -114,6 +114,8 @@ sites:
     url: https://ipt.gbif.es
   - name: IPT demo
     url: https://ipt-demo.gbif.es
+  - name: IPT demo plic
+    url: https://ipt-demo-plic.gbif.es    
   - name: LA demo
     url: https://demo.gbif.es
   - name: eLearning GBIF.es
