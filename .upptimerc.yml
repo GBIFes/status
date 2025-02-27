@@ -132,6 +132,8 @@ sites:
     url: https://colecciones-botanicas.gbif.es/
   - name: Colecciones Marinas Hub
     url: https://colecciones-marinas.gbif.es/
+  - name: mail service
+    url: https://mail.gbif.es
 
 status-website:
   #cname: demo.upptime.js.org
