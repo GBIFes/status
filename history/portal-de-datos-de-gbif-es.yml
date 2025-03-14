@@ -1,7 +1,7 @@
 url: https://datos.gbif.es
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-14T19:16:31.264Z
+status: up
+code: 200
+responseTime: 601
+lastUpdated: 2025-03-14T19:27:42.419Z
 startTime: 2021-11-29T20:36:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
