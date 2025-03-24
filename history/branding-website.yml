@@ -1,7 +1,7 @@
 url: https://datos.gbif.es/brand-2020-brunch
-status: down
-code: 404
-responseTime: 328
-lastUpdated: 2025-03-24T15:11:33.503Z
+status: up
+code: 200
+responseTime: 534
+lastUpdated: 2025-03-24T15:20:50.717Z
 startTime: 2022-06-14T08:01:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
