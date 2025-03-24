@@ -1,7 +1,7 @@
 url: https://name-matching.gbif.es/api/search?q=Cenchrus%20setaceus
-status: down
-code: 500
-responseTime: 334
-lastUpdated: 2025-03-24T15:11:44.044Z
+status: up
+code: 200
+responseTime: 105
+lastUpdated: 2025-03-24T15:21:00.465Z
 startTime: 2023-02-14T09:49:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
