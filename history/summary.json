@@ -570,19 +570,19 @@
     "url": "https://registros.gbif.es/explore/your-area/",
     "icon": "https://icons.duckduckgo.com/ip3/registros.gbif.es.ico",
     "slug": "records-service-explore-your-area",
-    "status": "down",
-    "uptime": "0.63%",
-    "uptimeDay": "0.63%",
-    "uptimeWeek": "0.63%",
-    "uptimeMonth": "0.63%",
-    "uptimeYear": "0.63%",
-    "time": 109,
-    "timeDay": 109,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 109,
+    "status": "up",
+    "uptime": "3.52%",
+    "uptimeDay": "3.52%",
+    "uptimeWeek": "3.52%",
+    "uptimeMonth": "3.52%",
+    "uptimeYear": "3.52%",
+    "time": 116,
+    "timeDay": 116,
+    "timeWeek": 116,
+    "timeMonth": 116,
+    "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-04-23": 3
+      "2025-04-23": 27
     }
   },
   {
