@@ -4,18 +4,19 @@
     "url": "https://gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/gbif.es.ico",
     "slug": "web-de-gbif-es",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1100,
+    "time": 1099,
     "timeDay": 1181,
     "timeWeek": 1101,
     "timeMonth": 1111,
     "timeYear": 1042,
     "dailyMinutesDown": {
+      "2025-05-08": 1,
       "2024-12-04": 29,
       "2024-09-15": 82
     }
@@ -424,7 +425,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/especies.gbif.es.ico",
     "slug": "species-test-search",
     "status": "up",
-    "uptime": "98.06%",
+    "uptime": "98.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.28%",
@@ -479,7 +480,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/especies.gbif.es.ico",
     "slug": "species-page",
     "status": "up",
-    "uptime": "96.37%",
+    "uptime": "96.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.23%",
@@ -587,11 +588,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/registros.gbif.es.ico",
     "slug": "records-service-explore-your-area",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "98.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "98.40%",
-    "uptimeYear": "98.40%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "98.45%",
     "time": 156,
     "timeDay": 117,
     "timeWeek": 136,
@@ -665,7 +666,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/registros-ws.gbif.es.ico",
     "slug": "records-web-services-biocache-service",
     "status": "up",
-    "uptime": "97.94%",
+    "uptime": "97.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.11%",
@@ -763,7 +764,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/colecciones.gbif.es.ico",
     "slug": "collections-web-services",
     "status": "up",
-    "uptime": "97.56%",
+    "uptime": "97.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.13%",
@@ -1236,7 +1237,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/name-matching.gbif.es.ico",
     "slug": "namematching-service",
     "status": "up",
-    "uptime": "97.37%",
+    "uptime": "97.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.31%",
@@ -1748,18 +1749,19 @@
     "url": "https://ipt.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/ipt.gbif.es.ico",
     "slug": "ipt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 644,
+    "time": 645,
     "timeDay": 736,
     "timeWeek": 636,
     "timeMonth": 656,
     "timeYear": 654,
     "dailyMinutesDown": {
+      "2025-05-08": 2,
       "2024-12-04": 29
     }
   },
@@ -1768,10 +1770,10 @@
     "url": "https://ipt-demo.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/ipt-demo.gbif.es.ico",
     "slug": "ipt-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 624,
@@ -1779,17 +1781,19 @@
     "timeWeek": 605,
     "timeMonth": 638,
     "timeYear": 642,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-08": 2
+    }
   },
   {
     "name": "IPT demo plic",
     "url": "https://ipt-demo-plic.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/ipt-demo-plic.gbif.es.ico",
     "slug": "ipt-demo-plic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 631,
@@ -1797,7 +1801,9 @@
     "timeWeek": 661,
     "timeMonth": 645,
     "timeYear": 631,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-08": 2
+    }
   },
   {
     "name": "LA demo",
@@ -1846,18 +1852,19 @@
     "url": "https://elearning.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/elearning.gbif.es.ico",
     "slug": "e-learning-gbif-es",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1806,
+    "time": 1808,
     "timeDay": 962,
     "timeWeek": 948,
     "timeMonth": 948,
     "timeYear": 1762,
     "dailyMinutesDown": {
+      "2025-05-08": 2,
       "2024-09-23": 52
     }
   },
@@ -1866,10 +1873,10 @@
     "url": "https://apt.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/apt.gbif.es.ico",
     "slug": "repositorio-apt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 740,
@@ -1877,7 +1884,9 @@
     "timeWeek": 1193,
     "timeMonth": 639,
     "timeYear": 737,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-08": 2
+    }
   },
   {
     "name": "Infraestructura Iberoamericana de Información sobre Biodiversidad",
@@ -1902,10 +1911,10 @@
     "url": "https://difusion.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/difusion.gbif.es.ico",
     "slug": "difusion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 779,
@@ -1914,6 +1923,7 @@
     "timeMonth": 496,
     "timeYear": 795,
     "dailyMinutesDown": {
+      "2025-05-08": 2,
       "2024-12-04": 28
     }
   },
@@ -1922,10 +1932,10 @@
     "url": "https://csic.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/csic.gbif.es.ico",
     "slug": "csic-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 585,
@@ -1933,7 +1943,9 @@
     "timeWeek": 585,
     "timeMonth": 622,
     "timeYear": 599,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-08": 2
+    }
   },
   {
     "name": "Colecciones Botánicas Hub",
@@ -2020,10 +2032,10 @@
     "url": "https://mail.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/mail.gbif.es.ico",
     "slug": "mail-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 944,
@@ -2032,6 +2044,7 @@
     "timeMonth": 693,
     "timeYear": 944,
     "dailyMinutesDown": {
+      "2025-05-08": 2,
       "2025-03-04": 17
     }
   }
