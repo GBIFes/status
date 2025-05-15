@@ -1,7 +1,7 @@
 url: https://name-matching.gbif.es
-status: down
-code: 503
-responseTime: 3411
-lastUpdated: 2025-05-15T10:32:25.005Z
+status: up
+code: 200
+responseTime: 726
+lastUpdated: 2025-05-15T10:57:35.180Z
 startTime: 2022-06-14T08:01:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
