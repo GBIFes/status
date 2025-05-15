@@ -1,7 +1,7 @@
 url: https://doi.gbif.es
-status: down
-code: 503
-responseTime: 997
-lastUpdated: 2025-05-15T07:53:51.274Z
+status: up
+code: 200
+responseTime: 890
+lastUpdated: 2025-05-15T08:16:51.711Z
 startTime: 2022-06-14T08:01:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
