@@ -1,7 +1,7 @@
 url: https://auth.gbif.es/apikey
-status: down
-code: 503
-responseTime: 2594
-lastUpdated: 2025-05-15T15:56:05.652Z
+status: up
+code: 200
+responseTime: 1297
+lastUpdated: 2025-05-15T16:23:44.436Z
 startTime: 2022-06-14T08:00:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
