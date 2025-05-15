@@ -1,7 +1,7 @@
 url: https://colecciones-marinas.gbif.es/
-status: down
-code: 503
-responseTime: 17050
-lastUpdated: 2025-05-15T12:16:12.199Z
+status: up
+code: 200
+responseTime: 477
+lastUpdated: 2025-05-15T12:59:14.451Z
 startTime: 2023-11-28T07:56:41.519Z
 generator: Upptime <https://github.com/upptime/upptime>
