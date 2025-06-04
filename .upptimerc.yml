@@ -100,7 +100,7 @@ sites:
     __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Spatial hub service
     url: https://espacial.gbif.es
-    __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
+    __dangerous__body_down: "An error has occurred"
   - name: Spatial web service
     url: https://espacial.gbif.es/ws
   - name: Spatial fields
