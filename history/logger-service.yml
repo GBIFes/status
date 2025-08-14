@@ -1,7 +1,7 @@
 url: https://logger.gbif.es
-status: up
-code: 200
-responseTime: 521
-lastUpdated: 2025-08-13T23:14:40.188Z
+status: down
+code: 404
+responseTime: 497
+lastUpdated: 2025-08-14T06:51:00.537Z
 startTime: 2022-06-14T08:01:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
