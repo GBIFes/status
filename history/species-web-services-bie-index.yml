@@ -1,7 +1,7 @@
 url: https://especies-ws.gbif.es
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-29T11:42:46.890Z
+status: up
+code: 200
+responseTime: 482
+lastUpdated: 2025-08-29T14:40:17.065Z
 startTime: 2022-06-14T08:00:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
