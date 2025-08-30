@@ -1,7 +1,7 @@
 url: https://auth.gbif.es/userdetails
-status: down
-code: 503
-responseTime: 1386
-lastUpdated: 2025-08-30T04:54:43.538Z
+status: up
+code: 200
+responseTime: 3257
+lastUpdated: 2025-08-30T05:42:15.827Z
 startTime: 2022-06-14T08:00:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
