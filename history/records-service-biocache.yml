@@ -1,7 +1,7 @@
 url: https://registros.gbif.es
-status: down
+status: up
 code: 200
-responseTime: 3794
-lastUpdated: 2025-08-30T02:50:01.149Z
+responseTime: 1024
+lastUpdated: 2025-08-30T09:33:20.577Z
 startTime: 2022-06-14T08:00:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
