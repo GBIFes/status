@@ -1,7 +1,7 @@
 url: https://mail.gbif.es
-status: up
-code: 200
-responseTime: 885
-lastUpdated: 2025-09-22T23:13:06.520Z
+status: down
+code: 502
+responseTime: 336
+lastUpdated: 2025-09-23T14:56:42.643Z
 startTime: 2025-02-27T08:03:47.594Z
 generator: Upptime <https://github.com/upptime/upptime>
