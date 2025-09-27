@@ -1176,7 +1176,7 @@
     "timeDay": 1096,
     "timeWeek": 900,
     "timeMonth": 926,
-    "timeYear": 1218,
+    "timeYear": 1219,
     "dailyMinutesDown": {
       "2025-09-02": 29,
       "2025-08-30": 303,
@@ -1983,7 +1983,7 @@
     "url": "https://recibio.net",
     "icon": "https://icons.duckduckgo.com/ip3/recibio.net.ico",
     "slug": "infraestructura-iberoamericana-de-informacion-sobre-biodiversidad",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
