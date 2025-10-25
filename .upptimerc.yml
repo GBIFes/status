@@ -44,7 +44,6 @@ sites:
     __dangerous__body_down: "Application error"
   - name: Species page
     url: https://especies.gbif.es/species/2978223
-    maxResponseTime: 60
     __dangerous__body_down: "Application error"
   - name: Records service (biocache)
     url: https://registros.gbif.es
