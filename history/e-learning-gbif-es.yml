@@ -1,7 +1,7 @@
 url: https://elearning.gbif.es
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-03T11:15:16.094Z
+status: up
+code: 200
+responseTime: 1081
+lastUpdated: 2025-11-03T11:28:35.007Z
 startTime: 2021-11-29T20:37:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
