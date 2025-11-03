@@ -567,19 +567,19 @@
     "url": "https://especies.gbif.es/species/2978223",
     "icon": "https://icons.duckduckgo.com/ip3/especies.gbif.es.ico",
     "slug": "species-page",
-    "status": "up",
-    "uptime": "97.85%",
-    "uptimeDay": "3.79%",
-    "uptimeWeek": "12.60%",
+    "status": "down",
+    "uptime": "97.86%",
+    "uptimeDay": "4.35%",
+    "uptimeWeek": "12.58%",
     "uptimeMonth": "56.59%",
-    "uptimeYear": "96.33%",
-    "time": 1277,
+    "uptimeYear": "96.36%",
+    "time": 1278,
     "timeDay": 1114,
     "timeWeek": 999,
     "timeMonth": 920,
     "timeYear": 1216,
     "dailyMinutesDown": {
-      "2025-11-03": 1147,
+      "2025-11-03": 1148,
       "2025-11-02": 1029,
       "2025-11-01": 1305,
       "2025-10-31": 1316,
@@ -596,8 +596,7 @@
       "2025-10-20": 713,
       "2025-10-08": 800,
       "2025-09-02": 32,
-      "2025-08-30": 61,
-      "2025-08-29": 177
+      "2025-08-30": 61
     }
   },
   {
@@ -2022,7 +2021,7 @@
     "time": 1365,
     "timeDay": 1713,
     "timeWeek": 1371,
-    "timeMonth": 1354,
+    "timeMonth": 1351,
     "timeYear": 1370,
     "dailyMinutesDown": {}
   },
