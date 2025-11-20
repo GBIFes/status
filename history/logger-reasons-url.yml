@@ -1,7 +1,7 @@
 url: https://logger.gbif.es/service/logger/reasons
-status: down
-code: 500
-responseTime: 4372
-lastUpdated: 2025-11-20T05:38:36.165Z
+status: up
+code: 200
+responseTime: 138
+lastUpdated: 2025-11-20T07:42:53.295Z
 startTime: 2022-06-14T08:01:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
