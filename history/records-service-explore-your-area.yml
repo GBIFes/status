@@ -1,7 +1,7 @@
 url: https://registros.gbif.es/explore/your-area/
-status: up
-code: 200
-responseTime: 159
-lastUpdated: 2026-01-09T23:15:59.449Z
+status: down
+code: 500
+responseTime: 130
+lastUpdated: 2026-01-10T15:32:19.127Z
 startTime: 2025-04-23T07:46:59.920Z
 generator: Upptime <https://github.com/upptime/upptime>
