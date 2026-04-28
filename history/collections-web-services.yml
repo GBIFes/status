@@ -1,7 +1,7 @@
 url: https://colecciones.gbif.es/ws
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-28T20:16:13.016Z
+status: up
+code: 200
+responseTime: 555
+lastUpdated: 2026-04-28T21:19:30.876Z
 startTime: 2022-06-14T08:00:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
