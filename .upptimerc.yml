@@ -50,7 +50,7 @@ sites:
     __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Records service - Explore your area
     url: https://registros.gbif.es/explore/your-area/
-    __dangerous__body_down: "Application error"
+    __dangerous__body_down: "support@gbif.es"
     maxResponseTime: 50000
   - name: Records test search
     url: https://registros.gbif.es/occurrences/search?q=taxa%3A%22acacia%22#tab_recordsView
