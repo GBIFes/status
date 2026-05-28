@@ -682,13 +682,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/registros.gbif.es.ico",
     "slug": "records-service-explore-your-area",
     "status": "down",
-    "uptime": "98.63%",
-    "uptimeDay": "77.92%",
-    "uptimeWeek": "77.09%",
-    "uptimeMonth": "94.02%",
-    "uptimeYear": "98.58%",
+    "uptime": "98.60%",
+    "uptimeDay": "66.39%",
+    "uptimeWeek": "75.41%",
+    "uptimeMonth": "93.64%",
+    "uptimeYear": "98.55%",
     "time": 167,
-    "timeDay": 668,
+    "timeDay": 645,
     "timeWeek": 681,
     "timeMonth": 552,
     "timeYear": 168,
@@ -748,7 +748,7 @@
       "2026-05-26": 475,
       "2026-05-25": 1429,
       "2026-05-27": 403,
-      "2026-05-28": 1
+      "2026-05-28": 171
     }
   },
   {
