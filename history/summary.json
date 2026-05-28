@@ -681,17 +681,17 @@
     "url": "https://registros.gbif.es/explore/your-area/",
     "icon": "https://icons.duckduckgo.com/ip3/registros.gbif.es.ico",
     "slug": "records-service-explore-your-area",
-    "status": "down",
-    "uptime": "98.60%",
-    "uptimeDay": "66.39%",
-    "uptimeWeek": "75.41%",
-    "uptimeMonth": "93.64%",
-    "uptimeYear": "98.55%",
-    "time": 167,
-    "timeDay": 645,
-    "timeWeek": 681,
-    "timeMonth": 552,
-    "timeYear": 168,
+    "status": "up",
+    "uptime": "98.59%",
+    "uptimeDay": "60.18%",
+    "uptimeWeek": "74.52%",
+    "uptimeMonth": "93.43%",
+    "uptimeYear": "98.53%",
+    "time": 168,
+    "timeDay": 670,
+    "timeWeek": 692,
+    "timeMonth": 559,
+    "timeYear": 169,
     "dailyMinutesDown": {
       "2025-06-05": 185,
       "2025-06-26": 92,
@@ -748,7 +748,7 @@
       "2026-05-26": 475,
       "2026-05-25": 1429,
       "2026-05-27": 403,
-      "2026-05-28": 171
+      "2026-05-28": 260
     }
   },
   {
