@@ -772,13 +772,13 @@
     "url": "https://registros-ws.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/registros-ws.gbif.es.ico",
     "slug": "records-web-services-biocache-service",
-    "status": "up",
+    "status": "down",
     "uptime": "98.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.72%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "95.65%",
     "uptimeYear": "99.17%",
-    "time": 1062,
+    "time": 1063,
     "timeDay": 1262,
     "timeWeek": 1279,
     "timeMonth": 2803,
@@ -810,7 +810,8 @@
       "2026-05-05": 133,
       "2026-05-19": 74,
       "2026-05-26": 377,
-      "2026-05-25": 1425
+      "2026-05-25": 1425,
+      "2026-06-08": 30
     }
   },
   {
@@ -868,7 +869,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/colecciones.gbif.es.ico",
     "slug": "collections-web-services",
     "status": "up",
-    "uptime": "98.00%",
+    "uptime": "98.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.90%",
@@ -960,12 +961,12 @@
     "url": "https://data-quality.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/data-quality.gbif.es.ico",
     "slug": "data-quality-service",
-    "status": "up",
+    "status": "down",
     "uptime": "96.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.61%",
-    "uptimeYear": "98.88%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "95.56%",
+    "uptimeYear": "98.87%",
     "time": 1309,
     "timeDay": 1267,
     "timeWeek": 1329,
@@ -1008,7 +1009,8 @@
       "2026-05-05": 129,
       "2026-05-15": 132,
       "2026-05-26": 377,
-      "2026-05-25": 1413
+      "2026-05-25": 1413,
+      "2026-06-08": 25
     }
   },
   {
