@@ -243,13 +243,13 @@
     "url": "https://auth.gbif.es/cas",
     "icon": "https://icons.duckduckgo.com/ip3/auth.gbif.es.ico",
     "slug": "cas-service",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "91.42%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "97.61%",
-    "uptimeYear": "98.79%",
-    "time": 795,
+    "uptimeDay": "88.95%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "97.53%",
+    "uptimeYear": "98.78%",
+    "time": 796,
     "timeDay": 1521,
     "timeWeek": 1581,
     "timeMonth": 1626,
@@ -302,7 +302,8 @@
       "2026-05-26": 475,
       "2026-05-25": 87,
       "2026-05-27": 224,
-      "2026-06-08": 124
+      "2026-06-08": 124,
+      "2026-06-09": 36
     }
   },
   {
@@ -785,11 +786,11 @@
     "url": "https://registros-ws.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/registros-ws.gbif.es.ico",
     "slug": "records-web-services-biocache-service",
-    "status": "up",
-    "uptime": "98.27%",
-    "uptimeDay": "74.90%",
-    "uptimeWeek": "96.41%",
-    "uptimeMonth": "94.89%",
+    "status": "down",
+    "uptime": "98.26%",
+    "uptimeDay": "73.11%",
+    "uptimeWeek": "96.16%",
+    "uptimeMonth": "94.83%",
     "uptimeYear": "99.10%",
     "time": 1067,
     "timeDay": 1338,
@@ -824,7 +825,8 @@
       "2026-05-19": 74,
       "2026-05-26": 377,
       "2026-05-25": 1425,
-      "2026-06-08": 361
+      "2026-06-08": 361,
+      "2026-06-09": 26
     }
   },
   {
@@ -1078,7 +1080,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/doi.gbif.es.ico",
     "slug": "doi-web-services",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "98.41%",
     "uptimeDay": "96.78%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "95.82%",
