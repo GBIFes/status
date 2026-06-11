@@ -85,17 +85,17 @@
     "url": "https://alertas.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/alertas.gbif.es.ico",
     "slug": "alerts-service",
-    "status": "down",
+    "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "97.61%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "97.60%",
     "uptimeYear": "98.23%",
-    "time": 6106,
-    "timeDay": 0,
-    "timeWeek": 7087,
-    "timeMonth": 7067,
-    "timeYear": 6275,
+    "time": 6105,
+    "timeDay": 5601,
+    "timeWeek": 6922,
+    "timeMonth": 7025,
+    "timeYear": 6274,
     "dailyMinutesDown": {
       "2025-06-26": 96,
       "2025-07-03": 61,
@@ -160,7 +160,7 @@
       "2026-05-25": 96,
       "2026-06-03": 93,
       "2026-06-08": 133,
-      "2026-06-11": 3
+      "2026-06-11": 6
     }
   },
   {
