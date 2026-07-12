@@ -1975,22 +1975,22 @@
     "url": "https://difusion.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/difusion.gbif.es.ico",
     "slug": "difusion",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.95%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "90.73%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.92%",
     "time": 486,
-    "timeDay": 464,
-    "timeWeek": 454,
-    "timeMonth": 449,
+    "timeDay": 485,
+    "timeWeek": 463,
+    "timeMonth": 451,
     "timeYear": 483,
     "dailyMinutesDown": {
       "2025-08-06": 55,
       "2026-01-28": 20,
       "2026-05-26": 187,
-      "2026-07-12": 3
+      "2026-07-12": 133
     }
   },
   {
