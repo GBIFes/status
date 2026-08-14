@@ -1884,16 +1884,16 @@
     "url": "https://demo.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/demo.gbif.es.ico",
     "slug": "la-demo",
-    "status": "down",
-    "uptime": "98.15%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.54%",
+    "status": "up",
+    "uptime": "98.14%",
+    "uptimeDay": "93.02%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
     "time": 554,
-    "timeDay": 592,
-    "timeWeek": 539,
-    "timeMonth": 581,
+    "timeDay": 582,
+    "timeWeek": 543,
+    "timeMonth": 580,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2025-08-29": 157,
@@ -1917,7 +1917,7 @@
       "2026-05-19": 73,
       "2026-05-26": 299,
       "2026-07-24": 106,
-      "2026-08-14": 2
+      "2026-08-14": 101
     }
   },
   {
