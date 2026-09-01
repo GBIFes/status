@@ -1234,17 +1234,17 @@
     "url": "https://logger.gbif.es/service/logger/reasons",
     "icon": "https://icons.duckduckgo.com/ip3/logger.gbif.es.ico",
     "slug": "logger-reasons-url",
-    "status": "up",
+    "status": "down",
     "uptime": "97.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "98.68%",
-    "time": 223,
-    "timeDay": 460,
-    "timeWeek": 571,
-    "timeMonth": 441,
-    "timeYear": 258,
+    "time": 224,
+    "timeDay": 547,
+    "timeWeek": 579,
+    "timeMonth": 447,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2025-09-02": 28,
       "2025-10-20": 16,
@@ -1275,7 +1275,8 @@
       "2026-06-27": 103,
       "2026-06-29": 424,
       "2026-07-24": 169,
-      "2026-08-10": 61
+      "2026-08-10": 61,
+      "2026-09-01": 2
     }
   },
   {
