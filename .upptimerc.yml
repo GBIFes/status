@@ -140,6 +140,9 @@ sites:
     url: https://colecciones-marinas.gbif.es/
   - name: mail service
     url: https://mail.gbif.es
+  - name: FAIR EVA (ICA)
+    url: https://fair.gbif.es
+    maxRedirects: 10
 
 status-website:
   #cname: demo.upptime.js.org
