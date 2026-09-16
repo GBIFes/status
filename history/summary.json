@@ -386,11 +386,11 @@
     "url": "https://especies.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/especies.gbif.es.ico",
     "slug": "species-service-bie",
-    "status": "up",
+    "status": "down",
     "uptime": "97.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.36%",
     "time": 686,
     "timeDay": 586,
@@ -426,7 +426,8 @@
       "2026-05-25": 72,
       "2026-06-08": 109,
       "2026-07-24": 256,
-      "2026-08-10": 148
+      "2026-08-10": 148,
+      "2026-09-16": 24
     }
   },
   {
@@ -434,13 +435,13 @@
     "url": "https://especies-ws.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/especies-ws.gbif.es.ico",
     "slug": "species-web-services-bie-index",
-    "status": "up",
+    "status": "down",
     "uptime": "98.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
-    "time": 523,
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.36%",
+    "time": 524,
     "timeDay": 441,
     "timeWeek": 454,
     "timeMonth": 472,
@@ -470,7 +471,8 @@
       "2026-05-25": 67,
       "2026-06-08": 104,
       "2026-07-24": 251,
-      "2026-08-10": 143
+      "2026-08-10": 143,
+      "2026-09-16": 19
     }
   },
   {
@@ -478,11 +480,11 @@
     "url": "https://especies.gbif.es/search?q=acacia",
     "icon": "https://icons.duckduckgo.com/ip3/especies.gbif.es.ico",
     "slug": "species-test-search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.47%",
     "time": 495,
     "timeDay": 549,
@@ -511,7 +513,8 @@
       "2026-05-25": 62,
       "2026-06-08": 99,
       "2026-07-24": 246,
-      "2026-08-10": 139
+      "2026-08-10": 139,
+      "2026-09-16": 11
     }
   },
   {
@@ -519,19 +522,19 @@
     "url": "https://especies.gbif.es/species/2978223",
     "icon": "https://icons.duckduckgo.com/ip3/especies.gbif.es.ico",
     "slug": "species-page",
-    "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.52%",
-    "time": 1123,
+    "status": "down",
+    "uptime": "98.66%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "96.54%",
+    "time": 1124,
     "timeDay": 1389,
     "timeWeek": 1908,
     "timeMonth": 1693,
     "timeYear": 1114,
     "dailyMinutesDown": {
-      "2025-10-28": 882,
+      "2025-10-28": 743,
       "2025-10-29": 1386,
       "2025-10-30": 1255,
       "2025-10-31": 1316,
@@ -561,7 +564,8 @@
       "2026-05-25": 57,
       "2026-06-08": 95,
       "2026-07-24": 241,
-      "2026-08-10": 134
+      "2026-08-10": 134,
+      "2026-09-16": 6
     }
   },
   {
@@ -620,7 +624,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/registros.gbif.es.ico",
     "slug": "records-service-explore-your-area",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1206,7 +1210,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/logger.gbif.es.ico",
     "slug": "logger-reasons-url",
     "status": "up",
-    "uptime": "97.67%",
+    "uptime": "97.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.34%",
@@ -1643,7 +1647,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/datos-sensibles.gbif.es.ico",
     "slug": "sensitive-data-service",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1780,11 +1784,11 @@
     "url": "https://demo.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/demo.gbif.es.ico",
     "slug": "la-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "98.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.59%",
     "time": 558,
     "timeDay": 436,
@@ -1810,7 +1814,8 @@
       "2026-05-19": 73,
       "2026-05-26": 299,
       "2026-07-24": 106,
-      "2026-08-14": 101
+      "2026-08-14": 101,
+      "2026-09-16": 3
     }
   },
   {
