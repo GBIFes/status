@@ -33,11 +33,11 @@
     "url": "https://datos.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/datos.gbif.es.ico",
     "slug": "portal-de-datos-de-gbif-es",
-    "status": "up",
+    "status": "down",
     "uptime": "98.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.28%",
     "time": 632,
     "timeDay": 431,
@@ -76,7 +76,8 @@
       "2026-06-08": 138,
       "2026-07-24": 266,
       "2026-07-23": 19,
-      "2026-08-10": 177
+      "2026-08-10": 177,
+      "2026-09-16": 4
     }
   },
   {
@@ -84,13 +85,13 @@
     "url": "https://alertas.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/alertas.gbif.es.ico",
     "slug": "alerts-service",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.46%",
-    "time": 5911,
+    "time": 5915,
     "timeDay": 1373,
     "timeWeek": 1784,
     "timeMonth": 1820,
@@ -149,7 +150,8 @@
       "2026-06-08": 133,
       "2026-07-24": 266,
       "2026-07-23": 14,
-      "2026-08-10": 172
+      "2026-08-10": 172,
+      "2026-09-16": 1
     }
   },
   {
