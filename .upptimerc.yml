@@ -124,6 +124,16 @@ sites:
     url: https://ipt-demo-plic.gbif.es    
   - name: LA demo
     url: https://demo.gbif.es
+  # Seguridad: estas URL DEBEN dar 401 sin credenciales. Un 200 es el interfaz
+  # de BackupPC abierto al mundo (demo, 2026-09-21), y aqui cuenta como caido.
+  - name: BackupPC demo exige contraseña
+    url: https://demo.gbif.es/backuppc/index.cgi?action=summary
+    expectedStatusCodes:
+      - 401
+  - name: BackupPC backuppc01 exige contraseña
+    url: https://backuppc01.gbif.es/backuppc/index.cgi?action=summary
+    expectedStatusCodes:
+      - 401
   - name: eLearning GBIF.es
     url: https://elearning.gbif.es
   - name: Repositorio APT
@@ -143,6 +153,10 @@ sites:
   - name: FAIR EVA (ICA)
     url: https://fair.gbif.es
     maxRedirects: 10
+  - name: FAIR EVA (es)
+    url: https://fair.gbif.es/es/about_us
+  - name: FAIR EVA (en)
+    url: https://fair.gbif.es/en/about_us
 
 status-website:
   #cname: demo.upptime.js.org
