@@ -1,7 +1,7 @@
 url: https://difusion.gbif.es
-status: down
-code: 502
-responseTime: 423
-lastUpdated: 2026-09-24T18:30:05.264Z
+status: up
+code: 200
+responseTime: 457
+lastUpdated: 2026-09-24T21:44:04.683Z
 startTime: 2023-06-06T10:12:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
