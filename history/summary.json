@@ -1918,15 +1918,15 @@
     "url": "https://difusion.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/difusion.gbif.es.ico",
     "slug": "difusion",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.91%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "86.53%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.88%",
     "time": 479,
-    "timeDay": 382,
-    "timeWeek": 405,
+    "timeDay": 407,
+    "timeWeek": 410,
     "timeMonth": 450,
     "timeYear": 477,
     "dailyMinutesDown": {
@@ -1935,7 +1935,7 @@
       "2026-07-12": 133,
       "2026-09-07": 5,
       "2026-09-06": 99,
-      "2026-09-24": 3
+      "2026-09-24": 194
     }
   },
   {
