@@ -157,6 +157,16 @@ sites:
     url: https://fair.gbif.es/es/about_us
   - name: FAIR EVA (en)
     url: https://fair.gbif.es/en/about_us
+  # Syncthing en monitor.gbif.es (syncthing-relays.yml de ansible-extras):
+  # lista de relays que refresca un cron y stdiscosrv detras de Apache. Con
+  # stdiscosrv parado /disco/ping da 503.
+  - name: Syncthing relays (sync.gbif.es)
+    url: https://sync.gbif.es/endpoint
+    __dangerous__body_down_if_text_missing: "relay://"
+  - name: Syncthing discovery (sync.gbif.es)
+    url: https://sync.gbif.es/disco/ping
+    expectedStatusCodes:
+      - 204
 
 status-website:
   #cname: demo.upptime.js.org
