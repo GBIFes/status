@@ -2104,19 +2104,19 @@
     "url": "https://sync.gbif.es/endpoint",
     "icon": "https://icons.duckduckgo.com/ip3/sync.gbif.es.ico",
     "slug": "syncthing-relays-sync-gbif-es",
-    "status": "down",
-    "uptime": "74.24%",
-    "uptimeDay": "74.24%",
-    "uptimeWeek": "74.24%",
-    "uptimeMonth": "74.24%",
-    "uptimeYear": "74.24%",
-    "time": 508,
-    "timeDay": 508,
-    "timeWeek": 508,
-    "timeMonth": 508,
-    "timeYear": 508,
+    "status": "up",
+    "uptime": "69.70%",
+    "uptimeDay": "69.70%",
+    "uptimeWeek": "69.70%",
+    "uptimeMonth": "69.70%",
+    "uptimeYear": "69.70%",
+    "time": 474,
+    "timeDay": 474,
+    "timeWeek": 474,
+    "timeMonth": 474,
+    "timeYear": 474,
     "dailyMinutesDown": {
-      "2026-09-28": 3
+      "2026-09-28": 4
     }
   },
   {
@@ -2124,19 +2124,19 @@
     "url": "https://sync.gbif.es/disco/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sync.gbif.es.ico",
     "slug": "syncthing-discovery-sync-gbif-es",
-    "status": "down",
-    "uptime": "76.66%",
-    "uptimeDay": "76.66%",
-    "uptimeWeek": "76.66%",
-    "uptimeMonth": "76.66%",
-    "uptimeYear": "76.66%",
-    "time": 395,
-    "timeDay": 395,
-    "timeWeek": 395,
-    "timeMonth": 395,
-    "timeYear": 395,
+    "status": "up",
+    "uptime": "71.20%",
+    "uptimeDay": "71.20%",
+    "uptimeWeek": "71.20%",
+    "uptimeMonth": "71.20%",
+    "uptimeYear": "71.20%",
+    "time": 385,
+    "timeDay": 385,
+    "timeWeek": 385,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {
-      "2026-09-28": 2
+      "2026-09-28": 4
     }
   }
 ]
