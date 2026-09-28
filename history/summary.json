@@ -2104,35 +2104,39 @@
     "url": "https://sync.gbif.es/endpoint",
     "icon": "https://icons.duckduckgo.com/ip3/sync.gbif.es.ico",
     "slug": "syncthing-relays-sync-gbif-es",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 414,
-    "timeDay": 414,
-    "timeWeek": 414,
-    "timeMonth": 414,
-    "timeYear": 414,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "74.24%",
+    "uptimeDay": "74.24%",
+    "uptimeWeek": "74.24%",
+    "uptimeMonth": "74.24%",
+    "uptimeYear": "74.24%",
+    "time": 508,
+    "timeDay": 508,
+    "timeWeek": 508,
+    "timeMonth": 508,
+    "timeYear": 508,
+    "dailyMinutesDown": {
+      "2026-09-28": 3
+    }
   },
   {
     "name": "Syncthing discovery (sync.gbif.es)",
     "url": "https://sync.gbif.es/disco/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sync.gbif.es.ico",
     "slug": "syncthing-discovery-sync-gbif-es",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 398,
-    "timeWeek": 398,
-    "timeMonth": 398,
-    "timeYear": 398,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "76.66%",
+    "uptimeDay": "76.66%",
+    "uptimeWeek": "76.66%",
+    "uptimeMonth": "76.66%",
+    "uptimeYear": "76.66%",
+    "time": 395,
+    "timeDay": 395,
+    "timeWeek": 395,
+    "timeMonth": 395,
+    "timeYear": 395,
+    "dailyMinutesDown": {
+      "2026-09-28": 2
+    }
   }
 ]
