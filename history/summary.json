@@ -1869,8 +1869,8 @@
     "slug": "e-learning-gbif-es",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 944,
@@ -1880,7 +1880,7 @@
     "timeYear": 948,
     "dailyMinutesDown": {
       "2026-05-26": 188,
-      "2026-10-15": 3
+      "2026-10-15": 6
     }
   },
   {
