@@ -134,8 +134,11 @@ sites:
     url: https://backuppc01.gbif.es/backuppc/index.cgi?action=summary
     expectedStatusCodes:
       - 401
+  # Chamilo pinta "Database is unavailable" con un 200 (2026-10-11, cuatro dias
+  # sin aviso): exigir el siteName, que solo sale si lee la BD.
   - name: eLearning GBIF.es
-    url: https://elearning.gbif.es
+    url: https://elearning.gbif.es/
+    __dangerous__body_down_if_text_missing: "Virtual GBIF"
   - name: Repositorio APT
     url: https://apt.gbif.es
   - name: Infraestructura Iberoamericana de Información sobre Biodiversidad
