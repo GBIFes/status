@@ -141,8 +141,15 @@ sites:
     __dangerous__body_down_if_text_missing: "Virtual GBIF"
   - name: Repositorio APT
     url: https://apt.gbif.es
+  # recibio.net paso a WordPress 7.1 (CT 109) el 2026-10-16. La raiz redirige y da
+  # 200 aunque falten el lateral o las galerias (asi estuvo la copia nueva): exigir
+  # el widget de noticias en portada y el pase de diapositivas en un taller.
   - name: Infraestructura Iberoamericana de Información sobre Biodiversidad
-    url: https://recibio.net
+    url: https://www.recibio.net/
+    __dangerous__body_down_if_text_missing: "ev-widget-post"
+  - name: I3B galería de un taller
+    url: https://www.recibio.net/taller-modelos-distribucion-especies/
+    __dangerous__body_down_if_text_missing: "ngg-slideshow"
   - name: Difusion
     url: https://difusion.gbif.es
   - name: CSIC Hub
