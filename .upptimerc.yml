@@ -96,6 +96,9 @@ sites:
   - name: Regions service
     url: https://regiones.gbif.es
     __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
+  - name: Regions page
+    url: https://regiones.gbif.es/feature/526
+    __dangerous__body_down_if_text_missing: "Zaragoza | Portal de Datos de GBIF.ES"
   - name: Sensitive service
     url: https://sds.gbif.es
     __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
