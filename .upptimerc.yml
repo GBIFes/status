@@ -39,6 +39,9 @@ sites:
     __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Species web services (bie-index)
     url: https://especies-ws.gbif.es
+  - name: Species web services search
+    url: https://especies-ws.gbif.es/search?q=Lynx%20pardinus
+    __dangerous__body_down_if_text_missing: "Temminck, 1827"
   - name: Species test search
     url: https://especies.gbif.es/search?q=acacia
     __dangerous__body_down: "Application error"
@@ -102,6 +105,9 @@ sites:
   - name: Sensitive service
     url: https://sds.gbif.es
     __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
+  - name: Sensitive service lookup
+    url: https://sds.gbif.es/ws/Narcissus%20longispathus
+    __dangerous__body_down_if_text_missing: "dr1188"
   - name: Spatial hub service
     url: https://espacial.gbif.es
     __dangerous__body_down: "An error has occurred"
