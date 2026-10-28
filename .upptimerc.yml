@@ -47,7 +47,7 @@ sites:
     __dangerous__body_down: "Application error"
   - name: Species page
     url: https://especies.gbif.es/species/2978223
-    __dangerous__body_down: "Application error"
+    __dangerous__body_down_if_text_missing: "Acacia | Portal de Datos de GBIF.ES"
   - name: Records service (biocache)
     url: https://registros.gbif.es
     __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
@@ -74,6 +74,9 @@ sites:
   - name: Collections web services
     url: https://colecciones.gbif.es/ws
     __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
+  - name: Collections web services list
+    url: https://colecciones.gbif.es/ws/collection
+    __dangerous__body_down_if_text_missing: "ws/collection/co"
   - name: Dashboard service
     url: https://dashboard.gbif.es
   - name: Data quality service
@@ -96,6 +99,7 @@ sites:
     __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Logger reasons url
     url: https://logger.gbif.es/service/logger/reasons
+    __dangerous__body_down_if_text_missing: "rkey"
   - name: Namematching service
     url: https://name-matching.gbif.es
     __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
@@ -128,6 +132,9 @@ sites:
     url: https://espacial.gbif.es/geoserver
   - name: Species Lists service
     url: https://listas.gbif.es
+  - name: Species Lists web services
+    url: https://listas.gbif.es/ws/speciesList?max=1
+    __dangerous__body_down_if_text_missing: "listCount"
   - name: Sensitive data service
     url: https://datos-sensibles.gbif.es
     __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
