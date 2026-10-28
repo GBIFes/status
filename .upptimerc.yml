@@ -57,8 +57,17 @@ sites:
     maxResponseTime: 50000
   - name: Records test search
     url: https://registros.gbif.es/occurrences/search?q=taxa%3A%22acacia%22#tab_recordsView
+  - name: Records search with results
+    url: https://registros.gbif.es/occurrences/search?q=taxa:%22Lynx%20pardinus%22
+    __dangerous__body_down_if_text_missing: "newDownload"
+  - name: Records occurrence page
+    url: https://registros.gbif.es/occurrences/ff4d6474-6108-4201-baec-acf7df18ad65
+    __dangerous__body_down_if_text_missing: "MA-Lichen"
   - name: Records web services (biocache-service)
     url: https://registros-ws.gbif.es
+  - name: Records web services occurrence
+    url: https://registros-ws.gbif.es/occurrence/ff4d6474-6108-4201-baec-acf7df18ad65
+    __dangerous__body_down_if_text_missing: "MA-Lichen"
   - name: Collections service
     url: https://colecciones.gbif.es
     __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
