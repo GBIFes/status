@@ -93,8 +93,10 @@ sites:
   - name: Branding website
     url: https://datos.gbif.es/brand-2020-brunch
   - name: Image service
-    url: https://imagenes.gbif.es
-    __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
+    # Miniatura real del store (image-service 4.2 en images-2026-2, TASK-97): JFIF solo esta en un JPEG
+    # de verdad; la imagen gris de error es PNG y la pagina de error de los proxies es HTML.
+    url: https://imagenes.gbif.es/image/proxyImageThumbnailLarge?imageId=2e27b79a-c658-4c85-b2d4-981790c9d98c
+    __dangerous__body_down_if_text_missing: "JFIF"
   - name: Logger service
     url: https://logger.gbif.es
     __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
