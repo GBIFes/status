@@ -84,6 +84,7 @@ sites:
     __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
   - name: Data quality profiles
     url: https://data-quality.gbif.es/api/v1/data-profiles?enabled=true
+    __dangerous__body_down_if_text_missing: "CSDM"
   - name: DOI web services
     url: https://doi.gbif.es/api/
     __dangerous__body_down: "Tenemos algún problema temporal en nuestros servicios."
