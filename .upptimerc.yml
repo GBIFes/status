@@ -178,8 +178,17 @@ sites:
   - name: I3B galería de un taller
     url: https://www.recibio.net/taller-modelos-distribucion-especies/
     __dangerous__body_down_if_text_missing: "ngg-slideshow"
+  # El hub sirve desde el borde de IFCA desde el 2026-11-04 (ansible-extras TASK-184). La
+  # raiz da 200 aunque las apps esten caidas: se exige una busqueda y una ficha.
   - name: CSIC Hub
     url: https://csic.gbif.es
+    __dangerous__body_down_if_text_missing: "Colecciones Biológicas del CSIC"
+  - name: CSIC Hub registros
+    url: https://csic.gbif.es/registros/occurrences/search?q=*:*
+    __dangerous__body_down_if_text_missing: "newDownload"
+  - name: CSIC Hub especies
+    url: https://csic.gbif.es/especies/species/2435261
+    __dangerous__body_down_if_text_missing: "Lince Ibérico"
   - name: Colecciones Botánicas Hub
     url: https://colecciones-botanicas.gbif.es/
   - name: Colecciones Marinas Hub
