@@ -189,10 +189,28 @@ sites:
   - name: CSIC Hub especies
     url: https://csic.gbif.es/especies/species/2435261
     __dangerous__body_down_if_text_missing: "Lince Ibérico"
+  # Los dos hubs sirven desde docker-prod-2026-1 desde el 2026-11-03. La raiz da
+  # 200 aunque las apps esten caidas, y un 200 tampoco prueba que conteste ESTE
+  # hub (csic.gbif.es sirvio botanicas una temporada): se exige el titulo del
+  # hub y, en la busqueda, el boton de descarga, que solo sale con resultados.
   - name: Colecciones Botánicas Hub
     url: https://colecciones-botanicas.gbif.es/
+    __dangerous__body_down_if_text_missing: "Colecciones botánicas"
+  - name: Colecciones Botánicas Hub registros
+    url: https://colecciones-botanicas.gbif.es/registros/occurrences/search?q=*:*
+    __dangerous__body_down_if_text_missing: "newDownload"
+  - name: Colecciones Botánicas Hub especies
+    url: https://colecciones-botanicas.gbif.es/especies/species/2435261
+    __dangerous__body_down_if_text_missing: "Lince Ibérico"
   - name: Colecciones Marinas Hub
     url: https://colecciones-marinas.gbif.es/
+    __dangerous__body_down_if_text_missing: "Colecciones marinas"
+  - name: Colecciones Marinas Hub registros
+    url: https://colecciones-marinas.gbif.es/registros/occurrences/search?q=*:*
+    __dangerous__body_down_if_text_missing: "newDownload"
+  - name: Colecciones Marinas Hub especies
+    url: https://colecciones-marinas.gbif.es/especies/species/2435261
+    __dangerous__body_down_if_text_missing: "Lince Ibérico"
   - name: mail service
     url: https://mail.gbif.es
   - name: FAIR EVA (ICA)
