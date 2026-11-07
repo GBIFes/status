@@ -2007,20 +2007,20 @@
     "url": "https://csic.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/csic.gbif.es.ico",
     "slug": "csic-hub",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 602,
-    "timeDay": 2033,
-    "timeWeek": 969,
-    "timeMonth": 668,
+    "timeDay": 1491,
+    "timeWeek": 907,
+    "timeMonth": 661,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2026-05-26": 187,
-      "2026-11-07": 4
+      "2026-11-07": 5
     }
   },
   {
@@ -2028,19 +2028,19 @@
     "url": "https://csic.gbif.es/registros/occurrences/search?q=*:*",
     "icon": "https://icons.duckduckgo.com/ip3/csic.gbif.es.ico",
     "slug": "csic-hub-registros",
-    "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
-    "time": 2257,
-    "timeDay": 2257,
-    "timeWeek": 2257,
-    "timeMonth": 2257,
-    "timeYear": 2257,
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
+    "time": 1749,
+    "timeDay": 1749,
+    "timeWeek": 1749,
+    "timeMonth": 1749,
+    "timeYear": 1749,
     "dailyMinutesDown": {
-      "2026-11-07": 3
+      "2026-11-07": 5
     }
   },
   {
@@ -2048,19 +2048,19 @@
     "url": "https://csic.gbif.es/especies/species/2435261",
     "icon": "https://icons.duckduckgo.com/ip3/csic.gbif.es.ico",
     "slug": "csic-hub-especies",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
-    "time": 2139,
-    "timeDay": 2139,
-    "timeWeek": 2139,
-    "timeMonth": 2139,
-    "timeYear": 2139,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 1616,
+    "timeDay": 1616,
+    "timeWeek": 1616,
+    "timeMonth": 1616,
+    "timeYear": 1616,
     "dailyMinutesDown": {
-      "2026-11-07": 3
+      "2026-11-07": 5
     }
   },
   {
