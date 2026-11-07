@@ -1,7 +1,7 @@
 url: https://csic.gbif.es
-status: down
-code: 502
-responseTime: 3388
-lastUpdated: 2026-11-07T23:40:42.624Z
+status: up
+code: 200
+responseTime: 409
+lastUpdated: 2026-11-07T23:45:59.247Z
 startTime: 2023-11-28T07:56:39.782Z
 generator: Upptime <https://github.com/upptime/upptime>
