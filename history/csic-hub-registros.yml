@@ -1,7 +1,7 @@
 url: https://csic.gbif.es/registros/occurrences/search?q=*:*
-status: down
-code: 502
-responseTime: 3547
-lastUpdated: 2026-11-08T01:06:18.622Z
+status: up
+code: 200
+responseTime: 994
+lastUpdated: 2026-11-08T01:11:12.452Z
 startTime: 2026-11-07T12:20:40.629Z
 generator: Upptime <https://github.com/upptime/upptime>
