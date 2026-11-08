@@ -2026,19 +2026,19 @@
     "url": "https://csic.gbif.es/registros/occurrences/search?q=*:*",
     "icon": "https://icons.duckduckgo.com/ip3/csic.gbif.es.ico",
     "slug": "csic-hub-registros",
-    "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
-    "time": 2199,
-    "timeDay": 2199,
-    "timeWeek": 2199,
-    "timeMonth": 2199,
-    "timeYear": 2199,
+    "status": "up",
+    "uptime": "99.36%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 1958,
+    "timeDay": 1958,
+    "timeWeek": 1958,
+    "timeMonth": 1958,
+    "timeYear": 1958,
     "dailyMinutesDown": {
-      "2026-11-08": 3
+      "2026-11-08": 5
     }
   },
   {
@@ -2046,19 +2046,19 @@
     "url": "https://csic.gbif.es/especies/species/2435261",
     "icon": "https://icons.duckduckgo.com/ip3/csic.gbif.es.ico",
     "slug": "csic-hub-especies",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
-    "time": 2088,
-    "timeDay": 2088,
-    "timeWeek": 2088,
-    "timeMonth": 2088,
-    "timeYear": 2088,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 1773,
+    "timeDay": 1773,
+    "timeWeek": 1773,
+    "timeMonth": 1773,
+    "timeYear": 1773,
     "dailyMinutesDown": {
-      "2026-11-08": 3
+      "2026-11-08": 5
     }
   },
   {
