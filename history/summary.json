@@ -4,17 +4,17 @@
     "url": "https://gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/gbif.es.ico",
     "slug": "web-de-gbif-es",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.79%",
-    "time": 1163,
-    "timeDay": 609,
-    "timeWeek": 760,
-    "timeMonth": 1103,
-    "timeYear": 1178,
+    "time": 1150,
+    "timeDay": 596,
+    "timeWeek": 751,
+    "timeMonth": 1093,
+    "timeYear": 1177,
     "dailyMinutesDown": {
       "2026-01-29": 36,
       "2026-02-11": 88,
@@ -25,7 +25,7 @@
       "2026-05-26": 190,
       "2026-08-01": 49,
       "2026-09-06": 224,
-      "2026-11-11": 1
+      "2026-11-11": 11
     }
   },
   {
