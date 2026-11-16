@@ -1,7 +1,7 @@
 url: https://alertas.gbif.es
-status: down
-code: 502
-responseTime: 560
-lastUpdated: 2026-11-16T19:41:26.022Z
+status: up
+code: 200
+responseTime: 1357
+lastUpdated: 2026-11-16T19:47:24.262Z
 startTime: 2022-06-14T08:00:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
