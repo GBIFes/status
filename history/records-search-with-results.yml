@@ -1,7 +1,7 @@
 url: https://registros.gbif.es/occurrences/search?q=taxa:%22Lynx%20pardinus%22
 status: up
 code: 200
-responseTime: 764
-lastUpdated: 2026-11-15T02:19:13.628Z
+responseTime: 840
+lastUpdated: 2026-11-16T02:31:09.208Z
 startTime: 2026-10-28T11:30:58.860Z
 generator: Upptime <https://github.com/upptime/upptime>
