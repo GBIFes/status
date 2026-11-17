@@ -799,9 +799,9 @@
     "slug": "collections-service",
     "status": "up",
     "uptime": "98.65%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.11%",
     "time": 879,
     "timeDay": 654,
@@ -835,8 +835,7 @@
       "2026-06-08": 71,
       "2026-07-24": 217,
       "2026-08-10": 109,
-      "2026-10-05": 185,
-      "2026-11-17": 5
+      "2026-10-05": 185
     }
   },
   {
@@ -1650,17 +1649,17 @@
     "url": "https://listas.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/listas.gbif.es.ico",
     "slug": "species-lists-service",
-    "status": "up",
+    "status": "down",
     "uptime": "98.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.53%",
-    "time": 1049,
-    "timeDay": 1231,
-    "timeWeek": 1010,
-    "timeMonth": 1186,
-    "timeYear": 1037,
+    "time": 1048,
+    "timeDay": 790,
+    "timeWeek": 927,
+    "timeMonth": 1164,
+    "timeYear": 1036,
     "dailyMinutesDown": {
       "2025-11-22": 76,
       "2025-11-21": 501,
@@ -1684,7 +1683,8 @@
       "2026-05-26": 314,
       "2026-05-27": 185,
       "2026-07-24": 121,
-      "2026-10-05": 89
+      "2026-10-05": 89,
+      "2026-11-17": 3
     }
   },
   {
