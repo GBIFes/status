@@ -1,7 +1,7 @@
 url: https://registros-ws.gbif.es/occurrence/ff4d6474-6108-4201-baec-acf7df18ad65
-status: up
-code: 200
-responseTime: 643
-lastUpdated: 2026-11-17T04:56:00.379Z
+status: down
+code: 500
+responseTime: 600
+lastUpdated: 2026-11-17T10:41:43.130Z
 startTime: 2026-10-28T11:31:02.231Z
 generator: Upptime <https://github.com/upptime/upptime>
