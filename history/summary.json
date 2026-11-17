@@ -717,17 +717,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/registros.gbif.es.ico",
     "slug": "records-occurrence-page",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 915,
-    "timeDay": 1012,
-    "timeWeek": 814,
-    "timeMonth": 915,
-    "timeYear": 915,
-    "dailyMinutesDown": {}
+    "uptime": "99.98%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 901,
+    "timeDay": 825,
+    "timeWeek": 796,
+    "timeMonth": 901,
+    "timeYear": 901,
+    "dailyMinutesDown": {
+      "2026-11-17": 5
+    }
   },
   {
     "name": "Records web services (biocache-service)",
@@ -780,17 +782,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/registros-ws.gbif.es.ico",
     "slug": "records-web-services-occurrence",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 643,
-    "timeWeek": 495,
-    "timeMonth": 574,
-    "timeYear": 574,
-    "dailyMinutesDown": {}
+    "uptime": "99.98%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 571,
+    "timeDay": 570,
+    "timeWeek": 504,
+    "timeMonth": 571,
+    "timeYear": 571,
+    "dailyMinutesDown": {
+      "2026-11-17": 5
+    }
   },
   {
     "name": "Collections service",
@@ -1651,9 +1655,9 @@
     "slug": "species-lists-service",
     "status": "up",
     "uptime": "98.44%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
     "time": 1048,
     "timeDay": 867,
@@ -1683,8 +1687,7 @@
       "2026-05-26": 314,
       "2026-05-27": 185,
       "2026-07-24": 121,
-      "2026-10-05": 89,
-      "2026-11-17": 5
+      "2026-10-05": 89
     }
   },
   {
