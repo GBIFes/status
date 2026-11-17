@@ -797,17 +797,17 @@
     "url": "https://colecciones.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/colecciones.gbif.es.ico",
     "slug": "collections-service",
-    "status": "up",
+    "status": "down",
     "uptime": "98.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.11%",
     "time": 879,
-    "timeDay": 909,
-    "timeWeek": 796,
-    "timeMonth": 859,
-    "timeYear": 848,
+    "timeDay": 633,
+    "timeWeek": 741,
+    "timeMonth": 846,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2025-11-22": 74,
       "2025-11-21": 509,
@@ -835,7 +835,8 @@
       "2026-06-08": 71,
       "2026-07-24": 217,
       "2026-08-10": 109,
-      "2026-10-05": 185
+      "2026-10-05": 185,
+      "2026-11-17": 2
     }
   },
   {
