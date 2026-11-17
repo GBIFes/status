@@ -1649,16 +1649,16 @@
     "url": "https://listas.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/listas.gbif.es.ico",
     "slug": "species-lists-service",
-    "status": "down",
+    "status": "up",
     "uptime": "98.44%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.53%",
     "time": 1048,
-    "timeDay": 790,
-    "timeWeek": 927,
-    "timeMonth": 1164,
+    "timeDay": 867,
+    "timeWeek": 938,
+    "timeMonth": 1160,
     "timeYear": 1036,
     "dailyMinutesDown": {
       "2025-11-22": 76,
@@ -1684,7 +1684,7 @@
       "2026-05-27": 185,
       "2026-07-24": 121,
       "2026-10-05": 89,
-      "2026-11-17": 3
+      "2026-11-17": 5
     }
   },
   {
