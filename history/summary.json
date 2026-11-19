@@ -698,19 +698,19 @@
     "url": "https://registros.gbif.es/occurrences/search?q=taxa:%22Lynx%20pardinus%22",
     "icon": "https://icons.duckduckgo.com/ip3/registros.gbif.es.ico",
     "slug": "records-search-with-results",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1044,
-    "timeDay": 805,
-    "timeWeek": 833,
-    "timeMonth": 1044,
-    "timeYear": 1044,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1040,
+    "timeDay": 833,
+    "timeWeek": 843,
+    "timeMonth": 1040,
+    "timeYear": 1040,
     "dailyMinutesDown": {
-      "2026-11-19": 2
+      "2026-11-19": 5
     }
   },
   {
