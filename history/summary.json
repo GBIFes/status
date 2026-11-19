@@ -1152,15 +1152,15 @@
     "url": "https://imagenes.gbif.es/image/proxyImageThumbnailLarge?imageId=2e27b79a-c658-4c85-b2d4-981790c9d98c",
     "icon": "https://icons.duckduckgo.com/ip3/imagenes.gbif.es.ico",
     "slug": "image-service",
-    "status": "down",
+    "status": "up",
     "uptime": "98.42%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.53%",
     "time": 961,
-    "timeDay": 431,
-    "timeWeek": 493,
+    "timeDay": 514,
+    "timeWeek": 514,
     "timeMonth": 680,
     "timeYear": 931,
     "dailyMinutesDown": {
@@ -1184,7 +1184,7 @@
       "2026-07-24": 178,
       "2026-08-10": 71,
       "2026-10-05": 147,
-      "2026-11-19": 2
+      "2026-11-19": 5
     }
   },
   {
