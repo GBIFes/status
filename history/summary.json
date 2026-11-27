@@ -1547,16 +1547,16 @@
     "url": "https://espacial.gbif.es/geoserver",
     "icon": "https://icons.duckduckgo.com/ip3/espacial.gbif.es.ico",
     "slug": "geoserver-service",
-    "status": "up",
+    "status": "down",
     "uptime": "98.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.76%",
-    "time": 539,
-    "timeDay": 712,
-    "timeWeek": 784,
-    "timeMonth": 836,
+    "time": 487,
+    "timeDay": 551,
+    "timeWeek": 734,
+    "timeMonth": 824,
     "timeYear": 615,
     "dailyMinutesDown": {
       "2026-02-08": 37,
@@ -1572,7 +1572,8 @@
       "2026-05-26": 319,
       "2026-07-24": 125,
       "2026-08-10": 17,
-      "2026-10-05": 94
+      "2026-10-05": 94,
+      "2026-11-27": 3
     }
   },
   {
