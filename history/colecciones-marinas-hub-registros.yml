@@ -1,7 +1,7 @@
 url: https://colecciones-marinas.gbif.es/registros/occurrences/search?q=*:*
-status: down
+status: up
 code: 200
-responseTime: 371
-lastUpdated: 2026-11-28T00:22:02.162Z
+responseTime: 1248
+lastUpdated: 2026-11-28T00:26:34.175Z
 startTime: 2026-11-07T12:20:46.602Z
 generator: Upptime <https://github.com/upptime/upptime>
