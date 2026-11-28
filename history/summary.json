@@ -81,17 +81,17 @@
     "url": "https://alertas.gbif.es",
     "icon": "https://icons.duckduckgo.com/ip3/alertas.gbif.es.ico",
     "slug": "alerts-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.05%",
-    "time": 5200,
-    "timeDay": 1573,
-    "timeWeek": 1745,
-    "timeMonth": 1809,
-    "timeYear": 4656,
+    "time": 5190,
+    "timeDay": 956,
+    "timeWeek": 1569,
+    "timeMonth": 1774,
+    "timeYear": 4646,
     "dailyMinutesDown": {
       "2026-01-31": 122,
       "2026-02-04": 55,
@@ -134,7 +134,8 @@
       "2026-08-10": 172,
       "2026-09-16": 277,
       "2026-10-05": 248,
-      "2026-11-06": 18
+      "2026-11-06": 18,
+      "2026-11-28": 1
     }
   },
   {
@@ -1110,9 +1111,9 @@
     "slug": "image-service",
     "status": "up",
     "uptime": "98.43%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 957,
     "timeDay": 514,
@@ -1137,8 +1138,7 @@
       "2026-06-08": 32,
       "2026-07-24": 178,
       "2026-08-10": 71,
-      "2026-10-05": 147,
-      "2026-11-27": 5
+      "2026-10-05": 147
     }
   },
   {
